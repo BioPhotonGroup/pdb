@@ -29,8 +29,9 @@ const Navbar: React.FC = () => {
           <IconButton edge="start" color="inherit" aria-label="menu" sx={{ mr: 2 }}>
             <MenuIcon />
           </IconButton>
+          <img href="../../assets/phobios_logo.png" />
           <Typography variant="h6" component="div" sx={{ flexGrow: 1 }}>
-            My App
+            Photonic Database
           </Typography>
   
           {!isAuthenticated ? (

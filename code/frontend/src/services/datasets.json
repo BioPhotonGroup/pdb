@@ -1,0 +1,1448 @@
+[
+  {
+    "id": 1,
+    "name": "Optical Coherence Tomography of the Human Retina",
+    "description": "Foundational study demonstrating OCT imaging of the human retina",
+    "type": "OCT Data",
+    "species": "Human",
+    "category": "Organismic",
+    "technique": "Optical Coherence Tomography",
+    "date": "1995-03-01",
+    "authors": [
+      "Michael R. Hee",
+      "Joseph A. Izatt",
+      "Eric A. Swanson",
+      "David Huang",
+      "Joel S. Schuman",
+      "Charles P. Lin",
+      "Carmen A. Puliafito",
+      "James G. Fujimoto"
+    ],
+    "journal": "Archives of Ophthalmology",
+    "doi": "10.1001/archopht.1995.01100030081025",
+    "abstract": "Objective: To demonstrate optical coherence tomography for high-resolution, noninvasive imaging of the human retina. Optical coherence tomography is a new imaging technique analogous to ultrasound B scan that can provide cross-sectional images of the retina with micrometer-scale resolution.",
+    "Design": "Survey optical coherence tomographic examination of the retina, including the macula and optic nerve head in normal human subjects.",
+    "Setting": "Research laboratory.",
+    "Participants": "Convenience sample of normal human subjects.",
+    "Main outcome measures": "Correlation of optical coherence retinal tomographs with known normal retinal anatomy.",
+    "Results": "Optical coherence tomographs can discriminate the cross-sectional morphologic features of the fovea and optic disc, the layered structure of the retina, and normal anatomic variations in retinal and retinal nerve fiber layer thicknesses with 10-microns depth resolution.",
+    "Conclusion": "Optical coherence tomography is a potentially useful technique for high depth resolution, cross-sectional examination of the fundus.",
+    "keywords": [
+      "OCT",
+      "retina",
+      "ophthalmology",
+      "noninvasive imaging"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Reflection Anisotropy Spectroscopy: A New Probe of Metal Surfaces",
+    "description": "Study introducing reflection anisotropy spectroscopy as a surface analysis technique for metals",
+    "type": "Spectroscopy",
+    "species": "",
+    "category": "Macro",
+    "technique": "Reflection Anisotropy Spectroscopy",
+    "date": "2001-10-04",
+    "authors": [
+      "D. S. Martin",
+      "Peter Weightman"
+    ],
+    "journal": "Surface and Interface Analysis",
+    "doi": "10.1002/sia.1129",
+    "abstract": "Reflection anisotropy spectroscopy (RAS) is a non-destructive optical probe of surfaces capable of operation within a wide range of environments. The RAS technique was developed to study semiconductor growth and more recently has been used to probe the optical properties of metal surfaces. Surface sensitivity has been demonstrated with the detection of reconstruction, adsorbate interaction and the observation of transitions involving surface-localized electronic states. The RAS technique has non-ultrahigh vacuum (UHV) environment capability and thus opens up the study of metal surfaces in catalytic and corrosive environments at high pressure and at the solid/liquid interface. The combination of RAS with a full range of surface science techniques applied to the study of well-defined surfaces aids in the interpretation of RAS spectra. The focus of this article will be on well-characterized metal surfaces prepared and studied under UHV conditions.",
+    "keywords": [
+      "reflection anisotropy spectroscopy",
+      "metal surfaces"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Surface-enhanced Raman spectroscopy: current understanding, challenges, and opportunities",
+    "description": "Comprehensive review on surface-enhanced Raman spectroscopy covering enhancement mechanisms, quantitative and qualitative analyses, and spectrum−structure correlations",
+    "type": "Spectroscopy",
+    "species": "",
+    "category": "Nano",
+    "technique": "Surface-enhanced Raman spectroscopy",
+    "date": "2024",
+    "authors": [
+      "Hao Ma",
+      "Si-Qi Pan",
+      "Wei-Li Wang",
+      "Xiaxia Yue",
+      "Xiao-Han Xi",
+      "Sen Yan",
+      "De-Yin Wu",
+      "Xiang Wang",
+      "Guokun Liu",
+      "Bin Ren"
+    ],
+    "journal": "ACS Nano",
+    "doi": "10.1021/acsnano.4c02670",
+    "abstract": "While surface-enhanced Raman spectroscopy (SERS) has experienced substantial advancements since its discovery in the 1970s, it is an opportunity to celebrate achievements, consider ongoing endeavors, and anticipate the future trajectory of SERS. In this perspective, we encapsulate the latest breakthroughs in comprehending the electromagnetic enhancement mechanisms of SERS, and revisit CT mechanisms of semiconductors. We then summarize the strategies to improve sensitivity, selectivity, and reliability. After addressing experimental advancements, we comprehensively survey the progress on spectrum–structure correlation of SERS showcasing their important role in promoting SERS development. Finally, we anticipate forthcoming directions and opportunities, especially in deepening our insights into chemical or biological processes and establishing a clear spectrum–structure correlation. ",
+    "keywords": [
+      "surface-enhanced Raman spectroscopy",
+      "enhancement mechanism",
+      "quantitative and qualitative analyses",
+      "spectrum−structure correlation’"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "C-reactive protein (CRP) evaluation in human urine using optical sensor supported by machine learning",
+    "description": "Development of an interferometric optical fiber sensor biofunctionalized for CRP detection in urine, combined with machine learning classifiers to accurately distinguish inflammation states",
+    "type": "Sensor",
+    "species": "Human",
+    "category": "Micro",
+    "technique": "Optical fiber sensing, Machine learning",
+    "date": "2024-08-14",
+    "authors": [
+      "Kacper Cierpiak",
+      "Paweł Wityk",
+      "Monika Kosowska",
+      "Patryk Sokołowski",
+      "Tomasz Talaśka",
+      "Jakub Gierowski",
+      "Michał J. Markuszewski",
+      "Małgorzata Szczerska"
+    ],
+    "journal": "Scientific Reports",
+    "doi": "10.1038/s41598-024-67821-0",
+    "abstract": "The rapid and sensitive indicator of inflammation in the human body is C-Reactive Protein (CRP). Determination of CRP level is important in medical diagnostics because, depending on that factor, it may indicate, e.g., the occurrence of inflammation of various origins, oncological, cardiovascular, bacterial or viral events. In this study, we describe an interferometric sensor able to detect the CRP level for distinguishing between no-inflammation and inflammation states. The measurement head was made of a single mode optical fiber with a microsphere structure created at the tip. Its surface has been biofunctionalized for specific CRP bonding. Standardized CRP solutions were measured in the range of 1.9 µg/L to 333 mg/L and classified in the initial phase of the study. The real samples obtained from hospitalized patients with diagnosed Urinary Tract Infection or Urosepsis were then investigated. 27 machine learning classifiers were tested for labeling the phantom samples as normal or high CRP levels. With the use of the ExtraTreesClassifier we obtained an accuracy of 95% for the validation dataset. The results of real samples classification showed up to 100% accuracy for the validation dataset using XGB classifier.",
+    "keywords": [
+      "Machine learning",
+      "C-reactive protein",
+      "Human urine",
+      "Fiber-optic sensors",
+      "Optical sensors"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Game theory-based virtual machine migration for energy sustainability in cloud data centers",
+    "description": "Novel approach using game theory and particle swarm optimization to optimize virtual machine migration, reducing energy consumption and improving sustainability in cloud data centers",
+    "type": "Computing",
+    "species": "",
+    "category": "Energy",
+    "technique": "Game theory, Particle swarm optimization, Virtual machine migration",
+    "date": "2024-10-15",
+    "authors": [
+      "Francisco Javier Maldonado-Carrascosa",
+      "Sebastián García-Galán",
+      "Manuel Valverde-Ibáñez",
+      "Tomasz Marciniak",
+      "Małgorzata Szczerska",
+      "Nicolás Ruiz-Reyes"
+    ],
+    "journal": "Applied Energy",
+    "doi": "10.1016/j.apenergy.2024.123798",
+    "abstract": "As the demand for cloud computing services increases, optimizing resource allocation and energy consumption has become a key factor in achieving sustainability in cloud environments. This paper presents a novel approach to address these challenges through an optimized virtual machine (VM) migration strategy that employs a game-theoretic approach based on particle swarm optimization (PSO) (PSO-GTA). The proposed approach leverages the collaborative and competitive dynamics of Game Theory to minimize energy consumption while using renewable energy. In this context, the game is represented by the swarm, where each player, embodied by particles, carries both competitive and cooperative elements essential to shape the collective behavior of the swarm. PSO is integrated to refine migration decisions, improving global convergence and optimizing the allocation of VMs to hosts. Through extensive simulations and performance evaluations, the proposed approach demonstrates significant improvements in resource utilization and energy efficiency, promoting sustainability in cloud computing environments. This research contributes to the development of environmentally friendly cloud computing systems, thus ensuring the delivery of energy-efficient cloud computing. The results demonstrate that the proposed approach outperforms fuzzy and genetic methods in terms of renewable energy usage. The PSO-GTA algorithm consistently outperforms Q-Learning, Pittsburgh and KASIA across three simulation scenarios with varying cloudlet dynamics, showcasing its efficiency and adaptability, and yielding improvements ranging from 0.68% to 5.32% over baseline results in nine simulations.",
+    "keywords": [
+      "Cloud computing",
+      "Virtual machine migration",
+      "Scheduling",
+      "Follow the renewable",
+      "Game theory"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Effect of ionic strength on DNA–dye interactions of Victoria blue B and methylene green using UV–visible spectroscopy",
+    "description": "Study of binding interactions between Victoria blue B and methylene green dyes with double-stranded DNA, examining the effect of ionic strength on binding constants and implications for carcinogenicity",
+    "type": "Spectroscopy",
+    "species": "",
+    "category": "Chemical Analysis",
+    "technique": "UV–visible spectroscopy",
+    "date": "2023-11-20",
+    "authors": [
+      "Faizan Ur Rahman",
+      "Shahab Khan",
+      "Maooz Ur Rahman",
+      "Rukhsana Zaib",
+      "Mudassir Ur Rahman",
+      "Riaz Ullah",
+      "Muhammad Zahoor",
+      "Abdul Waheed Kamran"
+    ],
+    "journal": "Zeitschrift für Physikalische Chemie",
+    "doi": "10.1515/zpch-2023-0365",
+    "abstract": "Victoria blue and methylene green dyes have both been extensively studied due to their numerous applications, including their ability to bind to DNA. Dyes are very important in everyday life with applications in textile, cosmetics, food and pharmaceutical industries. It has been found that some of them adversely affect human health causing severe abnormalities. Among these abnormalities, cancer is of great concern due to its fatal and almost non-recoverable nature. In this work we have studied the binding of two dyes namely Victoria blue B (VBB) and Methylene green (MG) with double stranded DNA (Salmon sperm). The interactions were studied in the presence of different concentrations of buffer solutions at a constant pH. The selected dyes showed interactions with double-stranded DNA through intercalation and electrostatic modes. Upon increasing ionic strength of the buffer the binding constant (Kb) value for MG was decreased whereas increased for VBB, which conclude that, at higher ionic strength (0.5 M) the DNA–MG interactions is lower and DNA–VVB interactions is maximum. The carcinogenicity of a given dye is indicated from its binding constants in the current study. Based on the recorded Kb values of the selected dyes it was concluded that proper disposing and precautions should be taken while utilizing/dealing these dyes in order to minimize/avoid their impact on environment and human health.",
+    "keywords": [
+      "Victoria blue B",
+      "methylene green",
+      "UV–visible spectroscopy",
+      "buffer solution"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Artificial-Intelligence-Enhanced Analysis of In Vivo Confocal Microscopy in Corneal Diseases: A Review",
+    "description": "Review of artificial intelligence applications, particularly convolutional neural networks, in analyzing in vivo confocal microscopy images for diagnosing corneal diseases and addressing challenges in AI deployment",
+    "type": "Microscopy’",
+    "species": "Human",
+    "category": "Ophthalmology",
+    "technique": "In vivo confocal microscopy, Artificial intelligence, Deep learning",
+    "date": "2024-03-26",
+    "authors": [
+      "Katarzyna Kryszan",
+      "Adam Wylęgała",
+      "Magdalena Kijonka",
+      "Patrycja Potrawa",
+      "Mateusz Walasz",
+      "Edward Wylęgała",
+      "Bogusława Orzechowska-Wylęgała"
+    ],
+    "journal": "Diagnostics",
+    "doi": "10.3390/diagnostics14070694",
+    "abstract": "Artificial intelligence (AI) has seen significant progress in medical diagnostics, particularly in image and video analysis. This review focuses on the application of AI in analyzing in vivo confocal microscopy (IVCM) images for corneal diseases. The cornea, as an exposed and delicate part of the body, necessitates the precise diagnoses of various conditions. Convolutional neural networks (CNNs), a key component of deep learning, are a powerful tool for image data analysis. This review highlights AI applications in diagnosing keratitis, dry eye disease, and diabetic corneal neuropathy. It discusses the potential of AI in detecting infectious agents, analyzing corneal nerve morphology, and identifying the subtle changes in nerve fiber characteristics in diabetic corneal neuropathy. However, challenges still remain, including limited datasets, overfitting, low-quality images, and unrepresentative training datasets. This review explores augmentation techniques and the importance of feature engineering to address these challenges. Despite the progress made, challenges are still present, such as the “black-box” nature of AI models and the need for explainable AI (XAI). Expanding datasets, fostering collaborative efforts, and developing user-friendly AI tools are crucial for enhancing the acceptance and integration of AI into clinical practice.",
+    "keywords": [
+      "artificial intelligence",
+      "deep learning",
+      "machine learning",
+      "in vivo confocal microscopy"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Metasurface array for single-shot spectroscopic ellipsometry",
+    "description": "Development of a compact metasurface array-based spectroscopic ellipsometry system enabling single-shot spectropolarimetric detection and precise thin film characterization without mechanical movement",
+    "type": "Optical Instrumentation",
+    "species": "",
+    "category": "Spectroscopy",
+    "technique": "Spectroscopic ellipsometry, Metasurface array",
+    "date": "2024",
+    "authors": [
+      "Shun Wen",
+      "Xinyuan Xue",
+      "Shuai Wang",
+      "Yibo Ni",
+      "Liqun Sun",
+      "Yuanmu Yang"
+    ],
+    "journal": "Light: Science & Applications",
+    "doi": "10.1038/s41377-024-01396-3",
+    "abstract": "Spectroscopic ellipsometry is a potent method that is widely adopted for the measurement of thin film thickness and refractive index. Most conventional ellipsometers utilize mechanically rotating polarizers and grating-based spectrometers for spectropolarimetric detection. Here, we demonstrated a compact metasurface array-based spectroscopic ellipsometry system that allows single-shot spectropolarimetric detection and accurate determination of thin film properties without any mechanical movement. The silicon-based metasurface array with a highly anisotropic and diverse spectral response is combined with iterative optimization to reconstruct the full Stokes polarization spectrum of the light reflected by the thin film with high fidelity. Subsequently, the film thickness and refractive index can be determined by fitting the measurement results to a proper material model with high accuracy. Our approach opens up a new pathway towards a compact and robust spectroscopic ellipsometry system for the high throughput measurement of thin film properties.",
+    "keywords": [
+      "spectroscopic ellipsometry",
+      "metasurface array",
+      "thin film measurement",
+      "spectropolarimetric detection"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "A systematic review of hyperspectral imaging in precision agriculture: Analysis of its current state and future prospects",
+    "description": "Comprehensive review of recent advancements, applications, and future prospects of hyperspectral imaging (HSI) technology in precision agriculture with a focus on real-time field applications",
+    "type": "Imaging",
+    "species": "",
+    "category": "Agriculture",
+    "technique": "Hyperspectral imaging, Machine learning, Deep learning",
+    "date": "2024-07",
+    "authors": [
+      "Billy G. Ram",
+      "Peter Oduor",
+      "C. Igathinathane",
+      "Kirk Howatt",
+      "Xin Sun"
+    ],
+    "journal": "Computers and Electronics in Agriculture",
+    "doi": "10.1016/j.compag.2024.109037",
+    "abstract": "Hyperspectral sensor adaptability in precision agriculture to digital images is still at its nascent stage. Hyperspectral imaging (HSI) is data rich in solving agricultural problems like disease detection, weed detection, stress detection, crop monitoring, nutrient application, soil mineralogy, yield estimation, and sorting applications. With modern precision agriculture, the challenge now is to bring these applications to the field for real-time solutions, where machines are enabled to conduct analyses without expert supervision and communicate the results to users for better management of farmlands; a necessary step to gain complete autonomy in agricultural farmlands. Significant advancements in HSI technology for precision agriculture are required to fully realize its potential. As a wide-ranging collection of the status of HSI and analysis in precision agriculture is lacking, this review endeavors to provide a comprehensive overview of the recent advancements and trends of HSI in precision agriculture for real-time applications. In this study, a systematic review of 163 scientific articles published over the past twenty years (2003–2023) was conducted. Of these, 97 were selected for further analysis based on their relevance to the topic at hand. Topics include conventional data preprocessing techniques, hyperspectral data acquisition, data compression methods, and segmentation methods. The hardware implementation of field-programmable gate arrays (FPGAs) and graphics processing units (GPUs) for high-speed data processing and application of machine learning and deep learning technologies were explored. This review highlights the potential of HSI as a powerful tool for precision agriculture, particularly in real-time applications, discusses limitations, and provides insights into future research directions.",
+    "keywords": [
+      "Hyperspectral",
+      "Precision agriculture",
+      "Data analysis",
+      "Real-time",
+      "Image analysis"
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Fourier Transform Infrared Spectroscopy: An analytical technique for microplastic identification and quantification",
+    "description": "Review of FTIR spectroscopy applications in identifying and quantifying microplastics in environmental samples, including advantages, drawbacks, and comparison with other analytical techniques",
+    "type": "Spectroscopy",
+    "species": "",
+    "category": "Environmental Analysis",
+    "technique": "Fourier Transform Infrared Spectroscopy (FTIR)",
+    "date": "2024-01",
+    "authors": [
+      "Collins Nana Andoh",
+      "Francis Attiogbe",
+      "Nana Osei Bonsu Ackerson",
+      "Mary Antwi",
+      "Kofi Adu-Boahen"
+    ],
+    "journal": "Infrared Physics & Technology",
+    "doi": "10.1016/j.infrared.2023.105070",
+    "abstract": "Microplastics (MPs) have become the talk of the century globally and hence taken the center stage of major research works especially in the environmental sector. In this study, the sources, types, and effects of microplastics are examined. The paper also reviews the Fourier transform infrared (FTIR) spectroscopy and its use in identifying and quantifying microplastics in environmental samples compared with other analytical techniques. There is also a critical look at the advantages and drawbacks of FTIR for microplastic analysis, including its ability to identify and describe microplastics in a variety of environmental matrices compared with other viable analytical methods commonly used for microplastics identification. There was also a highlight on the current research and development efforts aimed at improving FTIR techniques for microplastic analysis, particularly low-concentration quantification. However, of all the techniques, the FTIR method is seen as an excellent tool especially in detecting functional groups in environmental samples and assessing microplastics amounting to several studies either using it solely or in addition with other techniques.",
+    "keywords": [
+      "Microscopy",
+      "Environmental samples",
+      "Absorption spectra",
+      "Analysis",
+      "Plastics pollution"
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Applications of multiphoton microscopy in imaging cerebral and retinal organoids",
+    "description": "Review of multiphoton microscopy (MPM) as an advanced imaging technique for live cerebral organoids, highlighting its advantages and applications in neurodevelopmental research",
+    "type": "Microscopy",
+    "species": "",
+    "category": "Neuroscience",
+    "technique": "Multiphoton microscopy",
+    "date": "2024-03-05",
+    "authors": [
+      "Macit Emre Lacin",
+      "Murat Yildirim"
+    ],
+    "journal": "Frontiers in Neuroscience",
+    "doi": "10.3389/fnins.2024.1360482",
+    "abstract": "Cerebral organoids, self-organizing structures with increased cellular diversity and longevity, have addressed shortcomings in mimicking human brain complexity and architecture. However, imaging intact organoids poses challenges due to size, cellular density, and light-scattering properties. Traditional one-photon microscopy faces limitations in resolution and contrast, especially for deep regions. Here, we first discuss the fundamentals of multiphoton microscopy (MPM) as a promising alternative, leveraging non-linear fluorophore excitation and longer wavelengths for improved imaging of live cerebral organoids. Then, we review recent applications of MPM in studying morphogenesis and differentiation, emphasizing its potential for overcoming limitations associated with other imaging techniques. Furthermore, our paper underscores the crucial role of cerebral organoids in providing insights into human-specific neurodevelopmental processes and neurological disorders, addressing the scarcity of human brain tissue for translational neuroscience. Ultimately, we envision using multimodal multiphoton microscopy for longitudinal imaging of intact cerebral organoids, propelling advancements in our understanding of neurodevelopment and related disorders.",
+    "keywords": [
+      "multiphoton/two-photon imaging",
+      "neurodevelopmental disorder",
+      "corticogenesis",
+      "cerebral organoid",
+      "multiphoton/three-photon imaging"
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Enhancing Spatial Resolution and Signal Intensity of Laser Doppler Velocimetry for Flow Sensing Through Optical Path Optimization",
+    "description": "Investigation of laser beam expansion effects on improving measurement performance of reference beam-type LDV systems for complex flow fields",
+    "type": "Sensor",
+    "species": "",
+    "category": "Engineering",
+    "technique": "Laser Doppler Velocimetry (LDV)",
+    "date": "2025-03-24",
+    "authors": [
+      "Lili Jiang",
+      "Xinyu Zhang",
+      "Baoyi Shan",
+      "Bingbing Li",
+      "Juan Su",
+      "Chi Wu"
+    ],
+    "journal": "IEEE Sensors Journal",
+    "doi": "10.1109/JSEN.2025.3552104",
+    "abstract": "In response to the high spatial resolution and accuracy requirement for non-contact flow velocity sensors in complex flow field measurements, this article explores the impact of laser beam expansion in the laser emission path on the flow velocity sensing performance of the reference beam-type Laser Doppler Velocimeter (LDV), aiming to enhance the measurement capability of the LDV. Through simulation analysis and experimental verification, the study analyzes the effects of beam expansion on the measurement volume, scattered signal intensity, velocity signal intensity, and measurement accuracy of LDV. The results indicate that increasing the expansion factor from 5× to 9× leads to a 60.38% decrease in the LDV measurement volume, a 5.31-fold increase in scattered light intensity, and nearly a doubling of the velocity signal intensity measured by LDV. The reduction in measurement volume effectively improves the spatial resolution of the flow field measurement, and also improves the accuracy of velocity measurement. Additionally, the enhanced scattered light signal improves the LDV’s ability to sense velocity signals from small particles. Smaller particles exhibit better velocity tracking characteristics, making the flow velocity measurement results more accurate. These improvements are of great significance for precise sensing and analysis of complex flow fields and dynamic behaviors.",
+    "keywords": [
+      "Flow field measurement",
+      "laser Doppler velocimetry",
+      "optical path optimization",
+      "optical sensors"
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Terahertz imaging technology for localization of cancer tumours: a technical review",
+    "description": "Technical review of terahertz (THz) imaging as a non-invasive, non-ionizing modality for early cancer detection and clinical decision support",
+    "type": "Imaging",
+    "species": "Human",
+    "category": "Biomedical",
+    "technique": "Terahertz imaging and spectroscopy",
+    "date": "2023-09-23",
+    "authors": [
+      "M. Gezimati",
+      "Ghanshyam Singh"
+    ],
+    "journal": "Multimedia Tools and Applications",
+    "doi": "10.1007/s11042-023-16596-z",
+    "abstract": "Currently, cancer is a large contributing factor in the increased mortality rates and at present the predictions are estimating an increased trend. The conventional medical cancer imaging modalities, for example X-Ray and Computed Tomography use ionizing radiation which is not tissue friendly for repeated assessments. The Terahertz (THz) cancer imaging offers novel opportunities for non-ionizing, non-invasive and early cancer detection, or diagnosis as well as improved cancer patient treatment follow-ups. In this review, a broad overview is given on the potential of THz radiation-based imaging and sensing as a technique for detection of various cancers cells. The THz radiation dynamics and interaction mechanisms with biological systems as well as parameter extraction and modelling for the observed THz image contrast are studied. The experimental studies on THz imaging and sensing are investigated with the goal approach to investigate the ex vivo, in vitro, and in vivo observations. The use of advanced analytic algorithms, specifically deep learning, is proposed for improved detection, discrimination of complex tissue with overlapping dielectric properties and development of clinical decision support systems. Research gaps in the THz imaging studies are identified based on recent trends, latest strategies suggested and the roadmap for future research direction provided.",
+    "keywords": [
+      "Biomedical",
+      "Cancer",
+      "Detection",
+      "Diagnosis",
+      "Terahertz imaging and spectroscopy",
+      "Computer aided diagnosis (CAD)"
+    ]
+  },
+  {
+    "id": 14,
+    "name": "5-ALA induced PpIX fluorescence spectroscopy in neurosurgery: a review",
+    "description": "Review of 5-ALA-induced protoporphyrin IX (PpIX) fluorescence spectroscopy for image-guided brain tumor surgery",
+    "type": "Spectroscopy",
+    "species": "Human",
+    "category": "Neurosurgery",
+    "technique": "Fluorescence spectroscopy",
+    "date": "2024-01-29",
+    "authors": [
+      "A. Gautheron",
+      "J. D. Bernstock",
+      "T. Picart",
+      "J. Guyotat",
+      "P. A. Valdés",
+      "B. Montcel"
+    ],
+    "journal": "Frontiers in Neuroscience",
+    "doi": "10.3389/fnins.2024.1310282",
+    "abstract": "The review begins with an overview of the fundamental principles/physics underlying light, fluorescence, and other light-matter interactions in biological tissues. It then focuses on 5-aminolevulinic acid (5-ALA)-induced protoporphyrin IX (PpIX) fluorescence spectroscopy methods used in neurosurgery (e.g., intensity, time-resolved) and in so doing, describe their specific features (e.g., hardware requirements, main processing methods) as well as their strengths and limitations. Finally, we review current clinical applications and future directions of 5-ALA-induced protoporphyrin IX (PpIX) fluorescence spectroscopy in neurosurgery.",
+    "keywords": [
+      "fluorescence spectroscopy",
+      "5-aminolevulinic acid (5-ALA)",
+      "protoporphyrin IX (PpIX)",
+      "fluorescence guided surgery",
+      "brain tumors",
+      "neurooncology",
+      "image guidance",
+      "neurosurgery"
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Fluorescence microscopy: A statistics-optics perspective",
+    "description": "Comprehensive review of the statistical and optical foundations of fluorescence microscopy, emphasizing probabilistic modeling at sub-wavelength imaging scales.",
+    "type": "Microscopy",
+    "species": "",
+    "category": "Biophysics",
+    "technique": "Fluorescence microscopy",
+    "date": "2024-06-05",
+    "authors": [
+      "Mohamadreza Fazel",
+      "Kristin S. Grussmayer",
+      "Boris Ferdman",
+      "Aleksandra Radenovic",
+      "Yoav Shechtman",
+      "Jörg Enderlein",
+      "Steve Pressé"
+    ],
+    "journal": "Reviews of Modern Physics",
+    "doi": "10.1103/RevModPhys.96.025003",
+    "abstract": "Fundamental properties of light unavoidably impose features on images collected using fluorescence microscopes. Accounting for these features is often critical in quantitatively interpreting microscopy images, especially those gathering information at scales on par with or smaller than light’s emission wavelength. Here the optics responsible for generating fluorescent images, fluorophore properties, and microscopy modalities leveraging properties of both light and fluorophores, in addition to the necessarily probabilistic modeling tools imposed by the stochastic nature of light and measurement, are reviewed.",
+    "keywords": [
+      "Fluorescent biomolecules",
+      "Markovian processes",
+      "Optical microscopy",
+      "Optical techniques",
+      "Single molecule techniques",
+      "Statistical methods"
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Quantum Holographic Microscopy",
+    "description": "Development of a quantum holographic microscopy system utilizing polarization entanglement to enhance phase resolution and robustness in imaging transparent samples.",
+    "type": "Microscopy",
+    "species": "",
+    "category": "Photonics",
+    "technique": "Quantum holographic microscopy",
+    "date": "2025-02-06",
+    "authors": [
+      "Ling-Jun Kong",
+      "Jingfeng Zhang",
+      "Zhuo Zhang",
+      "Xiangdong Zhang"
+    ],
+    "journal": "Laser & Photonics Reviews",
+    "doi": "10.1002/lpor.202401909",
+    "abstract": "Quantitative phase microscopy (QPM) techniques are widely investigated for imaging transparent specimens, such as cells and tissues. The sensitivity and resolution of conventionally used QPM are fundamentally limited by environmental noise. Recently, quantum phase microscopy has been proposed. The research on it has made some progress and has shown many advantages over the classical one, such as greater robustness and higher contrast. However, the phase resolution of existing quantum phase microscopies remains very low, often confined to the qualitative measurement level. Here, to resolve these practical limitations, we introduced polarization entanglement-enabled quantum holographic technology into the microscopy system and constructed a new type of quantum phase microscopy, namely quantum holographic microscopy. By improving the existing quantum holographic scheme, our microscope system can be used to measure both various non-biological phase samples and label-free biological samples. The experimental results show that the phase resolution is improved by an order of magnitude compared with that of existing quantum phase microscopes. Moreover, the system has good robustness and can still obtain clear images in the presence of strong classical noise. The newly constructed quantum microscopic system is expected to have broad applications in industrial production, medicine, biological research, and other fields.",
+    "keywords": [
+      "quantum holographic microscopy",
+      "quantum phase microscopy",
+      "quantitative phase microscopy",
+      "polarization entanglement",
+      "label-free imaging",
+      "photonics"
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Advances in laser speckle imaging: From qualitative to quantitative hemodynamic assessment",
+    "description": "Review of laser speckle imaging (LSI) techniques highlighting their progression from qualitative to quantitative methods for assessing blood flow and tissue perfusion.",
+    "type": "Imaging",
+    "species": "",
+    "category": "Biophotonics",
+    "technique": "Laser speckle imaging",
+    "date": "2023-08-06",
+    "authors": [
+      "Muhammad Mohsin Qureshi",
+      "Nader Allam",
+      "Jeongmyo Im",
+      "Hyuk-Sang Kwon",
+      "Euiheon Chung",
+      "I. Alex Vitkin"
+    ],
+    "journal": "Journal of Biophotonics",
+    "doi": "10.1002/jbio.202300126",
+    "abstract": "Laser speckle imaging (LSI) techniques have emerged as a promising method for visualizing functional blood vessels and tissue perfusion by analyzing the speckle patterns generated by coherent light interacting with living biological tissue. These patterns carry important biophysical tissue information including blood flow dynamics. The noninvasive, label-free, and wide-field attributes along with relatively simple instrumental schematics make it an appealing imaging modality in preclinical and clinical applications. The review outlines the fundamentals of speckle physics and the three categories of LSI techniques based on their degree of quantification: qualitative, semi-quantitative and quantitative. Qualitative LSI produces microvascular maps by capturing speckle contrast variations between blood vessels containing moving red blood cells and the surrounding static tissue. Semi-quantitative techniques provide a more accurate analysis of blood flow dynamics by accounting for the effect of static scattering on spatiotemporal parameters. Quantitative LSI such as optical speckle image velocimetry provides quantitative flow velocity measurements, which is inspired by the particle image velocimetry in fluid mechanics. Additionally, discussions regarding the prospects of future innovations in LSI techniques for optimizing the vascular flow quantification with associated clinical outlook are presented.",
+    "keywords": [
+      "2D angiography",
+      "biophotonics",
+      "blood flow measurement",
+      "laser speckle",
+      "qualitative",
+      "quantitative",
+      "semi-quantitative"
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Super-resolved coherent anti-Stokes Raman scattering microscopy by coherent image scanning",
+    "description": "Demonstrates super-resolved coherent anti-Stokes Raman scattering (CARS) microscopy using phase-resolved image scanning microscopy to achieve up to two-fold resolution improvement over conventional CARS.",
+    "type": "Microscopy",
+    "species": "",
+    "category": "Biomedical Imaging",
+    "technique": "Coherent anti-Stokes Raman scattering (CARS) microscopy",
+    "date": "2024-11-21",
+    "authors": [
+      "Anna Zhitnitsky",
+      "Elad Benjamin",
+      "Ora Bitton",
+      "Dan Oron"
+    ],
+    "journal": "Nature Communications",
+    "doi": "10.1038/s41467-024-54429-1",
+    "abstract": "We present super-resolved coherent anti-Stokes Raman scattering (CARS) microscopy by implementing phase-resolved image scanning microscopy, achieving up to two-fold resolution increase as compared with a conventional CARS microscope. Phase-sensitivity is required for the standard pixel-reassignment procedure since the scattered field is coherent, thus the point-spread function is well-defined only for the field amplitude. We resolve the complex field by a simple add-on to the CARS setup enabling inline interferometry. Phase-sensitivity offers additional contrast which informs the spatial distribution of both resonant and nonresonant scatterers. As compared with alternative super-resolution schemes in coherent nonlinear microscopy, the proposed method is simple, requires only low-intensity excitation, and is compatible with any conventional forward-detected CARS imaging setup.",
+    "keywords": [
+      "super-resolution microscopy",
+      "CARS microscopy",
+      "phase-resolved imaging",
+      "coherent nonlinear microscopy",
+      "biomedical imaging"
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Sub-shot-Noise Circular Dichroism Spectroscopy for the Accelerated Characterization of Molecular Chirality",
+    "description": "Demonstrates noise suppression in circular dichroism (CD) spectroscopy using entangled photon pairs, enabling characterization of molecular chirality twice as fast as conventional methods by reducing noise below the shot-noise limit.",
+    "type": "Spectroscopy",
+    "species": "",
+    "category": "Molecular Spectroscopy",
+    "technique": "Circular dichroism spectroscopy with entangled photon pairs",
+    "date": "2024-04-02",
+    "authors": [
+      "Korenobu Matsuzaki",
+      "Tahei Tahara"
+    ],
+    "journal": "ACS Photonics",
+    "doi": "10.1021/acsphotonics.4c00182",
+    "abstract": "Circular dichroism (CD), which detects differential absorption with left- and right-circularly polarized light, is widely used for characterizing molecular chirality. Despite its similarity to absorption spectroscopy, CD spectroscopy typically requires a significantly longer time to acquire a spectrum due to the low intensity of the CD signal. The CD measurements can be accelerated if the noise level in the spectra can be reduced, which facilitates the detection of the weak CD signal. Here we show that such noise suppression is indeed possible using entangled photon pairs as the light source. By taking advantage of the photon number correlation of entangled photon pairs, we suppressed the noise contained in the CD spectra by 30% below the shot-noise limit which is a fundamental limit in conventional CD measurements. As a consequence, sub-shot-noise CD spectroscopy developed in this study is capable of characterizing the molecular chirality twice as fast as conventional CD spectroscopy.",
+    "keywords": [
+      "entangled photon pairs",
+      "shot-noise limit",
+      "circular dichroism spectroscopy",
+      "molecular chirality",
+      "absorption",
+      "chirality",
+      "polarization"
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Recent Advances in Fluorescent Nanoparticles for Stimulated Emission Depletion Imaging",
+    "description": "Comprehensive review of fluorescent nanoparticle-based probes for STED microscopy, highlighting their high brightness, photostability, and advantages over traditional organic dyes and fluorescent proteins for super-resolution imaging.",
+    "type": "Microscopy",
+    "species": "",
+    "category": "Super-resolution Microscopy",
+    "technique": "Stimulated Emission Depletion (STED) Microscopy",
+    "date": "2024-06-21",
+    "authors": [
+      "Liqing Qi",
+      "Songlin Liu",
+      "Jiantao Ping",
+      "Xingxing Yao",
+      "Long Chen",
+      "Dawei Yang",
+      "Yijun Liu",
+      "Chenjing Wang",
+      "Yating Xiao",
+      "Lubin Qi",
+      "Yifei Jiang",
+      "Xiaohong Fang"
+    ],
+    "journal": "Biosensors",
+    "doi": "10.3390/bios14070314",
+    "abstract": "Stimulated emission depletion (STED) microscopy, as a popular super-resolution imaging technique, has been widely used in bio-structure analysis and resolving the dynamics of biological processes beyond the diffraction limit. The performance of STED critically depends on the optical properties of the fluorescent probes. Ideally, the probe should possess high brightness and good photostability, and exhibit a sensitive response to the depletion beam. Organic dyes and fluorescent proteins, as the most widely used STED probes, suffer from low brightness and exhibit rapid photobleaching under high excitation power. Recently, luminescent nanoparticles (NPs) have emerged as promising fluorescent probes in biological imaging due to their high brightness and good photostability. STED imaging using various kinds of NPs, including quantum dots, polymer dots, carbon dots, aggregation-induced emission dots, etc., has been demonstrated. This review comprehensively discusses recent advances in fluorescent NP-based STED probes, their advantages and pitfalls, and outlines future development directions.",
+    "keywords": [
+      "super-resolution imaging",
+      "STED",
+      "fluorescence probes",
+      "fluorescent nanoparticles",
+      "luminescent materials"
+    ]
+  },
+  {
+    "id": 21,
+    "name": "An ultrasensitive and broadband transparent ultrasound transducer for ultrasound and photoacoustic imaging in-vivo",
+    "description": "Development of an ultrasensitive, broadband transparent ultrasound transducer (TUT) using silicon dioxide-epoxy composite adhesive layers, enabling high optical transparency and improved acoustic performance for dual-modal ultrasound and photoacoustic imaging in vivo.",
+    "type": "Imaging",
+    "species": "",
+    "category": "Ultrasound Imaging",
+    "technique": "Ultrasound and Photoacoustic Imaging",
+    "date": "2024-02-16",
+    "authors": [
+      "Seonghee Cho",
+      "Minsu Kim",
+      "Joongho Ahn",
+      "Yeonggeun Kim",
+      "Junha Lim",
+      "Jeongwoo Park",
+      "Hyung Ham Kim",
+      "Won Jong Kim",
+      "Chulhong Kim"
+    ],
+    "journal": "Nature Communications",
+    "doi": "10.1038/s41467-024-45273-4",
+    "abstract": "Transparent ultrasound transducers (TUTs) can seamlessly integrate optical and ultrasound components, but acoustic impedance mismatch prohibits existing TUTs from being practical substitutes for conventional opaque ultrasound transducers. Here, we propose a transparent adhesive based on a silicon dioxide-epoxy composite to fabricate matching and backing layers with acoustic impedances of 7.5 and 4–6 MRayl, respectively. By employing these layers, we develop an ultrasensitive, broadband TUT with 63% bandwidth at a single resonance frequency and high optical transparency (> 80%), comparable to conventional opaque ultrasound transducers. Our TUT maximises both acoustic power and transfer efficiency with maximal spectrum flatness while minimising ringdowns. This enables high contrast and high-definition dual-modal ultrasound and photoacoustic imaging in live animals and humans. Both modalities reach an imaging depth of > 15 mm, with depth-to-resolution ratios exceeding 500 and 370, respectively. This development sets a new standard for TUTs, advancing the possibilities of sensor fusion.",
+    "keywords": [
+      "transparent ultrasound transducer",
+      "photoacoustic imaging",
+      "ultrasound imaging",
+      "silicon dioxide-epoxy composite",
+      "dual-modal imaging"
+    ]
+  },
+  {
+    "id": 22,
+    "name": "Isotope shift of fine structure of Kr+ and hyperfine structure of 83Kr+ by strong-field ultrahigh-resolution Fourier-transform spectroscopy",
+    "description": "Determination of hyperfine structure splitting energies of 83Kr+ and isotope shifts in Kr+ fine structure with sub-MHz precision using strong-field ultrahigh-resolution Fourier-transform spectroscopy, revealing electron density deformation due to relativistic effects.",
+    "type": "Spectroscopy",
+    "species": "",
+    "category": "Atomic & Molecular Physics",
+    "technique": "Ultrahigh-resolution Fourier-transform Spectroscopy",
+    "date": "2025-04-25",
+    "authors": [
+      "Toshiaki Ando",
+      "Kana Yamada",
+      "Atsushi Iwasaki",
+      "Kaoru Yamanouchi"
+    ],
+    "journal": "Physical Review Research",
+    "doi": "10.1103/PhysRevResearch.7.L022025",
+    "abstract": "We determine the energies of hyperfine structure splitting of 83Kr+ and isotope shifts in the fine structure splitting of Kr+ with precision of sub-MHz (~10⁻⁵ cm⁻¹) by strong-field ultrahigh-resolution Fourier-transform spectroscopy. From the splitting energies, we determine the hyperfine structure constants of 83Kr+ and the isotope shift parameters of Kr+. Based on the field shift parameters, we identify the deformation of the electron density distribution of the 4p orbital of Kr+ originating from the relativistic effect.",
+    "keywords": [
+      "hyperfine structure",
+      "isotope shift",
+      "Kr+",
+      "Fourier-transform spectroscopy",
+      "relativistic effects",
+      "atomic spectra"
+    ]
+  },
+  {
+    "id": 23,
+    "name": "Time-Resolved Spectroscopy for Dynamic Investigation of Photoresponsive Metal–Organic Frameworks",
+    "description": "Perspective summarizing photophysical processes and analysis methods using time-resolved photoluminescence and transient absorption spectroscopy to study excited-state dynamics in photoresponsive metal-organic frameworks (MOFs).",
+    "type": "Spectroscopy",
+    "species": "",
+    "category": "Physical Chemistry",
+    "technique": "Time-resolved spectroscopy",
+    "date": "2024-03-19",
+    "authors": [
+      "Yejun Xiao",
+      "Qi Sun",
+      "Jing Leng",
+      "Shengye Jin"
+    ],
+    "journal": "The Journal of Physical Chemistry Letters",
+    "doi": "10.1021/acs.jpclett.4c00296",
+    "abstract": "Photoresponsive MOFs with precise and adjustable reticular structures are attractive for light conversion applications. Uncovering the photoinduced carrier dynamics lays the essential foundation for further development and optimization of MOF materials. Time-resolved spectroscopy has been applied to investigate photophysical processes such as excimer formation, energy transfer/migration, and charge transfer/separation. However, identifying distinct photophysical processes remains challenging due to spectral and dynamic complexity. This Perspective summarizes typical spectral features, analysis methods using TR-PL and TA spectroscopy, and discusses challenges and future outlooks to aid MOF kinetic analysis and material development.",
+    "keywords": [
+      "Charge transfer",
+      "Diffusion",
+      "Energy transfer",
+      "Excitons",
+      "Metal organic frameworks"
+    ]
+  },
+  {
+    "id": 24,
+    "name": "Plasmon-enhanced second harmonic generation of metal nanostructures",
+    "description": "Minireview discussing the enhancement and modulation of second harmonic generation (SHG) in metal nanostructures, focusing on plasmonic effects and applications in sensing, imaging, and nonlinear optoelectronics.",
+    "type": "Imaging",
+    "species": "",
+    "category": "Nanophotonics",
+    "technique": "Second harmonic generation (SHG)",
+    "date": "2024",
+    "authors": [
+      "Cong-Cong Zhang",
+      "Jia-Yi Zhang",
+      "Jing-Ru Feng",
+      "Si-Ting Liu",
+      "Si-Jing Ding",
+      "Liang Ma",
+      "Qu-Quan Wang"
+    ],
+    "journal": "Nanoscale",
+    "doi": "10.1039/D3NR06675D",
+    "abstract": "Second harmonic generation (SHG) is a key nonlinear optical process with important applications in nanophotonics. Advances in metal nanomaterial fabrication have enabled metal nanoparticles to enhance and modulate SHG effectively. This minireview introduces the optical principles of SHG and surface symmetry breaking in metal nanoparticles, reviews SHG enhancement via double resonance structures, magnetic resonance, and harmonic energy transfer, and summarizes SHG applications in sensing, imaging, and in situ monitoring of metal nanostructures. Future opportunities in composite systems combining metal nanostructures with two-dimensional materials are proposed.",
+    "keywords": [
+      "Second harmonic generation",
+      "Plasmonics",
+      "Metal nanostructures",
+      "Nonlinear optics",
+      "Nanophotonics",
+      "Sensing",
+      "Imaging"
+    ]
+  },
+  {
+    "id": 25,
+    "name": "Continuous Wave-Diffuse Optical Tomography (CW-DOT) in Human Brain Mapping: A Review",
+    "description": "A comprehensive review of CW-DOT as a non-invasive neuroimaging technique for human brain mapping, covering hardware systems, reconstruction algorithms, clinical and cognitive neuroscience applications, challenges, and future research directions.",
+    "type": "Optical Tomography",
+    "species": "Human",
+    "category": "Neuroimaging",
+    "technique": "Continuous Wave-Diffuse Optical Tomography (CW-DOT)",
+    "date": "2025-03-25",
+    "authors": [
+      "Shuo Guan",
+      "Yuhang Li",
+      "Yuanyuan Gao",
+      "Yuxi Luo",
+      "Hubin Zhao",
+      "Dalin Yang",
+      "Rihui Li"
+    ],
+    "journal": "Sensors",
+    "doi": "10.3390/s25072040",
+    "abstract": "CW-DOT is a promising non-invasive neuroimaging method providing high spatial resolution brain mapping compared to functional near-infrared spectroscopy (fNIRS). This review summarizes hardware configurations, reconstruction algorithms, and clinical and cognitive neuroscience applications. It includes a systematic review of 83 studies and discusses challenges such as the lack of standardized protocols and the need for improved quantitative precision. CW-DOT systems demonstrate high anatomical precision and reliability, making them valuable for both research and clinical use.",
+    "keywords": [
+      "continuous wave-diffuse optical tomography",
+      "brain mapping",
+      "neuroimaging",
+      "high spatial resolution",
+      "clinical neuroscience",
+      "cognitive neuroscience"
+    ]
+  },
+  {
+    "id": 26,
+    "name": "Dielectric Metasurfaces for Broadband Phase-Contrast Relief-Like Imaging",
+    "description": "A novel metasurface-assisted half-side phase-contrast technique enabling simultaneous phase-contrast and relief-like imaging of transparent specimens across the visible spectrum.",
+    "type": "Microscopy",
+    "species": "General",
+    "category": "Microscopy, Imaging",
+    "technique": "Metasurface-assisted half-side phase-contrast imaging",
+    "date": "2024-11-06",
+    "authors": [
+      "Ming Deng",
+      "Saima Kanwal",
+      "Zhuochao Wang",
+      "Chengkun Cai",
+      "Yongzhi Cheng",
+      "Jianguo Guan",
+      "Guangwei Hu",
+      "Jian Wang",
+      "Jing Wen",
+      "Lin Chen"
+    ],
+    "journal": "Nano Letters",
+    "doi": "10.1021/acs.nanolett.4c03695",
+    "abstract": "The visualization of transparent specimens in traditional light microscopy is impeded by insufficient intrinsic contrast, prompting the development of advanced contrast-enhancement methodologies to transmute minute phase discrepancies into detectable amplitude alterations. While existing methods excel in either phase-contrast imaging (contrast-enhanced image of whole objects) or relief-like imaging (deceptive three-dimensional images), it would be of great significance to seamlessly integrate both capabilities in the same device. Here, we propose a novel metasurface-assisted half-side phase-contrast technique capable of simultaneous phase-contrast and relief-like imaging across the visible spectrum, which is realized by introducing a ±π/2 phase shift to a half-side diffracted wave emitted by the objects. Our method showcases successful application to diverse specimens, including a transparent silica disk and a frog egg cell. Our work substantiates high-quality microscopic imaging of various transparent specimens, which has profound implications in cellular biology, materials science, and medical diagnostics.",
+    "keywords": [
+      "metasurfaces",
+      "phase-contrast imaging",
+      "deceptive three-dimensional imaging"
+    ]
+  },
+  {
+    "id": 27,
+    "name": "SERS microscopy as a tool for comprehensive biochemical characterization in complex samples",
+    "description": "A tutorial review on surface enhanced Raman scattering (SERS) microscopy for biochemical characterization in complex bioorganic samples, discussing experimental factors, spectroscopy settings, and advanced data analysis including machine learning.",
+    "type": "Microscopy",
+    "species": "General",
+    "category": "Spectroscopy, Microscopy",
+    "technique": "Surface Enhanced Raman Scattering (SERS) Microscopy",
+    "date": "2024-06-27",
+    "authors": [
+      "Janina Kneipp",
+      "Stephan Seifert",
+      "Florian Gärber"
+    ],
+    "journal": "Chemical Society Reviews",
+    "doi": "10.1039/D4CS00460D",
+    "abstract": "Surface enhanced Raman scattering (SERS) spectra of biomaterials such as cells or tissues can be used to obtain biochemical information from nanoscopic volumes in these heterogeneous samples. This tutorial review discusses the factors that determine the outcome of a SERS experiment in complex bioorganic samples. They are related to the SERS process itself, the possibility to selectively probe certain regions or constituents of a sample, and the retrieval of the vibrational information in order to identify molecules and their interaction. After introducing basic aspects of SERS experiments in the context of biocompatible environments, spectroscopy in typical microscopic settings is exemplified, including the possibilities to combine SERS with other linear and non-linear microscopic tools, and to exploit approaches that improve lateral and temporal resolution. In particular the great variation of data in a SERS experiment calls for robust data analysis tools. Approaches will be introduced that have been originally developed in the field of bioinformatics for the application to omics data and that show specific potential in the analysis of SERS data. They include the use of simulated data and machine learning tools that can yield chemical information beyond achieving spectral classification.",
+    "keywords": [
+      "SERS microscopy",
+      "biochemical characterization",
+      "surface enhanced Raman scattering",
+      "machine learning",
+      "spectroscopy",
+      "microscopy"
+    ]
+  },
+  {
+    "id": 28,
+    "name": "Age Estimation Using Cemental Lines and Mineral Density Index with Polarized Microscopy",
+    "description": "Explores cemental line counts and mineral density index via polarized light microscopy for accurate age estimation in young adults, aiding forensic investigations.",
+    "type": "Microscopy",
+    "species": "Human",
+    "category": "Forensic Odontology",
+    "technique": "Polarized Light Microscopy (PLM)",
+    "date": "2025",
+    "authors": [
+      "Jitendra Sharma",
+      "Kavita Nitish Garg",
+      "Amit Thahriani",
+      "Deepali Upadhyaya",
+      "Manoj Malhotra"
+    ],
+    "journal": "University Journal of Dental Sciences",
+    "doi": "10.21276/ujds.2025.11.1.1",
+    "abstract": "Background: Age estimation from dental tissues plays a crucial role in forensic science, especially in cases involving unidentified individuals or legal disputes. Cementum, a mineralized tissue in teeth, forms incremental lines that serve as biomarkers for age determination. Aim: The study aims to explore the use of cemental line counts (CLC), mineral density index (MDI), and cementum thickness (CT) for age estimation using polarized light microscopy (PLM). Methods: A total of 35 pathology-free third molars from individuals aged 16-35 years were analyzed. Teeth were grouped into four age ranges: Group I (16-20 years), Group II (21-25 years), Group III (26-30 years), and Group IV (31-35 years). Cemental line counts, MDI, and CT were measured using PLM. A regression model was applied to estimate age, and correlations between the variables were assessed using Pearson’s correlation. ANOVA was conducted to compare MDI across age groups, and paired t-tests were performed to compare estimated and actual ages. Results: The study found a strong positive correlation between CLC and actual age (r = 0.82, p < 0.01). The MDI showed a moderate correlation with age (r = 0.15, p = 0.04), while CT showed a weak correlation (r = 0.08). ANOVA revealed significant differences in MDI across age groups (p = 0.03), with higher MDI in older age groups. The regression model showed a mean difference of 1.25 years (SD ± 0.72) between estimated and actual ages, with no significant difference (p = 0.08) between the two. Conclusions: The study demonstrates that CLC and MDI, when measured using PLM, are effective in estimating age in individuals aged 16-35 years. Incorporating multiple parameters, including cementum thickness and mineral density, enhances the accuracy and reliability of age estimation. This multifactorial approach provides a promising tool for forensic age estimation, particularly in young adults.",
+    "keywords": [
+      "cementum",
+      "cemental line count",
+      "mineral density index",
+      "cementum thickness",
+      "polarized light microscopy",
+      "age estimation",
+      "forensic science",
+      "forensic odontology"
+    ]
+  },
+  {
+    "id": 29,
+    "name": "Multi-layered Tissue Head Phantoms for Noninvasive Optical Diagnostics",
+    "description": "Development of multi-layered tissue phantoms mimicking optical properties of human head layers (skin, skull, brain tissues) for calibration and performance testing of noninvasive near-infrared spectroscopy systems.",
+    "type": "Spectroscopy",
+    "species": "Human",
+    "category": "Optical Diagnostics",
+    "technique": "Near-Infrared Spectroscopy (NIRS)",
+    "date": "2015",
+    "authors": [
+      "M. S. Wróbel",
+      "A. P. Popov",
+      "A. V. Bykov",
+      "M. Kinnunen",
+      "M. Jędrzejewska-Szczerska",
+      "V. V. Tuchin"
+    ],
+    "journal": "Journal of Biomedical Optics",
+    "doi": "10.1142/S1793545815410059",
+    "abstract": "This study presents the fabrication of plain-parallel multi-layered tissue phantoms with optical properties corresponding to human head layers, including skin, skull, and brain gray and white matter. Using polyvinyl chloride-plastisol and zinc oxide nanoparticles, the phantoms simulate reduced scattering and absorption coefficients suitable for noninvasive diffuse near-infrared spectroscopy (NIRS). Optical properties were confirmed via spectrophotometry and inverse adding-doubling calculations, demonstrating close match with literature values, making these phantoms valuable for system calibration and testing.",
+    "keywords": [
+      "tissue-mimicking phantoms",
+      "optical properties",
+      "near-infrared spectroscopy",
+      "head model",
+      "noninvasive diagnostics"
+    ]
+  },
+  {
+    "id": 30,
+    "name": "Expert System Against Machine Learning Approaches as a Virtual Sensor for Ventricular Arrhythmia Risk Level Estimation",
+    "description": "Development of an expert system to classify patients’ risk of fatal ventricular arrhythmias based on ECG-derived QT intervals and clinical data, offering interpretable and accurate risk stratification to aid healthcare decision-making.",
+    "type": "Virtual Sensor",
+    "species": "Human",
+    "category": "Cardiac Risk Assessment",
+    "technique": "Expert System",
+    "date": "2025-04",
+    "authors": [
+      "Sebastian Garcia-Galan",
+      "Jose A. Cabrera-Rodriguez",
+      "Francisco J. Maldonado-Carrascosa",
+      "Nicolás Ruiz-Reyes",
+      "Małgorzata Szczerska",
+      "Pedro Vera-Candeas",
+      "Francisco D. Gonzalez-Martinez",
+      "Francisco J. Canadas-Quesada",
+      "Alfonso J. Cruz-Lendinez"
+    ],
+    "journal": "Biomedical Signal Processing and Control",
+    "doi": "10.1016/j.bspc.2024.107255",
+    "abstract": "Recent advancements in machine learning have opened new avenues for preventing fatal ventricular arrhythmia by accurately measuring and analyzing QT intervals. This paper presents virtual sensor based on an expert system designed to prevent the risk of fatal ventricular arrhythmias associated with QT-prolonging treatments. The expert system categorizes patients into three risk levels based on their electrocardiogram-derived QT intervals and other clinical data, such as age or sex, facilitating informed decision-making and reducing the workload for healthcare professionals. Expert systems, known for their effectiveness in classifications with limited data, are particularly advantageous in this context. They not only achieve better standard metrics but also offer interpretability that other machine learning models lack. The proposed system’s performance has been rigorously compared against various machine learning algorithms, demonstrating superior efficiency as evidenced by confusion matrices, standard classification metrics, and receiver operation point curves. With an accuracy of 96.5%, the expert system proves to be the best option among the models evaluated, optimizing patient care and treatment outcomes by enabling more frequent and precise electrocardiogram assessments.",
+    "keywords": [
+      "ventricular arrhythmia",
+      "torsades de pointes",
+      "virtual sensor",
+      "explainable artificial intelligence",
+      "interpretability",
+      "fuzzy rule-based systems"
+    ]
+  },
+  {
+    "id": 31,
+    "name": "Biomarker Detection in the Wastewater Phantom",
+    "description": "Development and characterization of an optical wastewater phantom for monitoring public health biomarkers through noninvasive sewage surveillance using Raman spectroscopy and refractometry.",
+    "type": "Spectroscopy",
+    "species": "",
+    "category": "Biomarker Detection",
+    "technique": "Raman Spectroscopy, Refractometry",
+    "date": "2025-05-13",
+    "authors": [
+      "Adam Władziński",
+      "Monika Kosowska",
+      "Paweł Wityk",
+      "Aneta Łuczkiewicz",
+      "Marcin Gnyba",
+      "Małgorzata Szczerska"
+    ],
+    "journal": "Journal of Biophotonics",
+    "doi": "10.1002/jbio.202500003",
+    "abstract": "Research trends are focused on developing solutions that monitor public health utilizing sewage surveillance, as wastewater can provide valuable information on the presence of specific biomarkers. Such information can serve as an indication of immune response at the community level, delivering a noninvasive measure of e.g., vaccination effectiveness. In this paper, we present an optical wastewater phantom fabrication, characterization, and comparison to real wastewater samples. Raman spectroscopy was used for the investigation of the molecular compositions of treated wastewater and artificial wastewater phantoms, and the refractometer to investigate refractive index values dependence on temperature. Selected biomarkers concentrations (10−6 to 10−1 mg/mL) were added to the validated phantoms. The selective detection of SARS-CoV-2 immunoglobulin G (IgG) was achieved through specific surface modification of the fiber-optic probe, allowing only targeted biomarkers to attach and influence the measurement signal. Successful detection of 10−6 mg/mL IgG concentration in the wastewater phantom was achieved within 5 min.",
+    "keywords": [
+      "biomarker detection",
+      "wastewater phantom",
+      "Raman spectroscopy",
+      "refractometry",
+      "SARS-CoV-2 IgG",
+      "public health monitoring"
+    ]
+  },
+  {
+    "id": 32,
+    "name": "Enhancing cervical cancer detection and robust classification through a fusion of deep learning models",
+    "description": "A hybrid deep learning and machine learning framework for accurate and robust cervical cancer classification using pre-trained models and SIPaKMeD dataset.",
+    "type": "Imaging",
+    "species": "Human",
+    "category": "Medical Diagnostics",
+    "technique": "Colposcopy Imaging",
+    "date": "2024-05-11",
+    "authors": [
+      "Sandeep Kumar Mathivanan",
+      "Divya Francis",
+      "Saravanan Srinivasan",
+      "Vaibhav Khatavkar",
+      "Karthikeyan P",
+      "Mohd Asif Shah"
+    ],
+    "journal": "Scientific Reports",
+    "doi": "10.1038/s41598-024-49089-7",
+    "abstract": "Cervical cancer, the second most prevalent cancer affecting women, arises from abnormal cell growth in the cervix, a crucial anatomical structure within the uterus. The significance of early detection cannot be overstated, prompting the use of various screening methods such as Pap smears, colposcopy, and Human Papillomavirus (HPV) testing to identify potential risks and initiate timely intervention. These screening procedures encompass visual inspections, Pap smears, colposcopies, biopsies, and HPV-DNA testing, each demanding the specialized knowledge and skills of experienced physicians and pathologists due to the inherently subjective nature of cancer diagnosis. In response to the imperative for efficient and intelligent screening, this article introduces a groundbreaking methodology that leverages pre-trained deep neural network models, including Alexnet, Resnet-101, Resnet-152, and InceptionV3, for feature extraction. The fine-tuning of these models is accompanied by the integration of diverse machine learning algorithms, with ResNet152 showcasing exceptional performance, achieving an impressive accuracy rate of 98.08%. It is noteworthy that the SIPaKMeD dataset, publicly accessible and utilized in this study, contributes to the transparency and reproducibility of our findings. The proposed hybrid methodology combines aspects of DL and ML for cervical cancer classification. Most intricate and complicated features from images can be extracted through DL. Further various ML algorithms can be implemented on extracted features. This innovative approach not only holds promise for significantly improving cervical cancer detection but also underscores the transformative potential of intelligent automation within the realm of medical diagnostics, paving the way for more accurate and timely interventions.",
+    "keywords": [
+      "cervical cancer",
+      "deep learning",
+      "machine learning",
+      "ResNet152",
+      "SIPaKMeD",
+      "medical image analysis",
+      "cancer classification"
+    ]
+  },
+  {
+    "id": 33,
+    "name": "Spatially offset Raman spectroscopy for biomedical applications",
+    "description": "Review of spatially offset Raman spectroscopy (SORS) and its biomedical applications, highlighting recent advances in deep tissue probing and diagnostics.",
+    "type": "Spectroscopy",
+    "species": "Human",
+    "category": "Non-invasive Diagnostics",
+    "technique": "Spatially Offset Raman Spectroscopy (SORS), TRS, micro-SORS, SESORS",
+    "date": "2020-11-10",
+    "authors": [
+      "Fay Nicolson",
+      "Moritz F. Kircher",
+      "Nick Stone",
+      "Pavel Matousek"
+    ],
+    "journal": "Chemical Society Reviews",
+    "doi": "10.1039/D0CS00855A",
+    "abstract": "In recent years, Raman spectroscopy has undergone major advancements in its ability to probe deeply through turbid media such as biological tissues. This progress has been facilitated by the advent of a range of specialist techniques based around spatially offset Raman spectroscopy (SORS) to enable non-invasive probing of living tissue through depths of up to 5 cm. This represents an improvement in depth penetration of up to two orders of magnitude compared to what can be achieved with conventional Raman methods. In combination with the inherently high molecular specificity of Raman spectroscopy, this has therefore opened up entirely new prospects for a range of new analytical applications across multiple fields including medical diagnosis and disease monitoring. This article discusses SORS and related variants of deep Raman spectroscopy such as transmission Raman spectroscopy (TRS), micro-SORS and surface enhanced spatially offset Raman spectroscopy (SESORS), and reviews the progress made in this field during the past 5 years including advances in non-invasive cancer diagnosis, monitoring of neurotransmitters, and assessment of bone disease.",
+    "keywords": [
+      "SORS",
+      "Raman spectroscopy",
+      "deep tissue diagnostics",
+      "TRS",
+      "SESORS",
+      "cancer detection",
+      "bone disease",
+      "neurotransmitters"
+    ]
+  },
+  {
+    "id": 34,
+    "name": "Molecular imaging and disease theranostics with renal-clearable optical agents",
+    "description": "Review of renal-clearable optical agents (RCOAs) for high-resolution, low-toxicity imaging and disease theranostics, including kidney monitoring and tumor visualization.",
+    "type": "Molecular Imaging",
+    "species": "Human",
+    "category": "Theranostics",
+    "technique": "Optical Imaging with Renal-Clearable Optical Agents (RCOAs)",
+    "date": "2021-06-23",
+    "authors": [
+      "Penghui Cheng",
+      "Kanyi Pu"
+    ],
+    "journal": "Nature Reviews Materials",
+    "doi": "10.1038/s41578-021-00328-6",
+    "abstract": "Optical imaging in disease diagnosis and treatment benefits from high spatiotemporal resolution and the availability of numerous optical agents. However, many optical imaging probes are cleared by the reticuloendothelial system, which can lead to probe accumulation in the liver and spleen and hence organ toxicity. By contrast, renal-clearable optical agents (RCOAs) are rapidly excreted from the body via the kidneys, undergoing minimal metabolism. In this Review, we discuss the design principles of RCOAs, with a focus on imaging and disease theranostics (the combination of diagnosis and therapy). Renal excretion of RCOAs makes them intrinsically suitable for targeted kidney imaging, including passive monitoring of the glomerular filtration rate and detection of early kidney injury biomarkers. The pharmacokinetics of RCOAs can further be tailored to prolong their circulation in the blood, allowing deep tumour penetration and high-contrast tumour imaging. Finally, we discuss intraoperative image-guided surgery and optical urinalysis, and suggest future applications of RCOAs.",
+    "keywords": [
+      "renal-clearable optical agents",
+      "RCOAs",
+      "optical imaging",
+      "theranostics",
+      "kidney imaging",
+      "tumor imaging",
+      "image-guided surgery",
+      "optical urinalysis"
+    ]
+  },
+  {
+    "id": 35,
+    "name": "UV-Vis spectroscopy coupled with firefly algorithm-enhanced artificial neural networks for the determination of propranolol, rosuvastatin, and valsartan in ternary mixtures",
+    "description": "A UV-Vis spectroscopy method integrated with firefly algorithm-enhanced artificial neural networks (FA-ANN) for simultaneous quantification of three cardiovascular drugs in mixtures.",
+    "type": "Spectroscopy",
+    "species": "Human-related (cardiovascular drugs)",
+    "category": "Chemometric Modeling",
+    "technique": "UV-Vis Spectroscopy + Firefly Algorithm + Artificial Neural Networks (ANN)",
+    "date": "2025-03-29",
+    "authors": [
+      "Ahmed Serag",
+      "Maram H. Abduljabbar",
+      "Yusuf S. Althobaiti",
+      "Farooq M. Almutairi",
+      "Shaker T. Alsharif",
+      "Rami M. Alzhrani",
+      "Marwa F. Ahmed",
+      "Atiah H. Almalki"
+    ],
+    "journal": "Scientific Reports",
+    "doi": "10.1038/s41598-025-89187-7",
+    "abstract": "In the present study, a simple, rapid and cost-effective analytical method was developed for the simultaneous determination of three commonly prescribed cardiovascular drugs: propranolol, rosuvastatin and valsartan. The method employed artificial neural networks (ANN) to model the relation between the UV absorption spectra of the drugs and their concentrations. An experimental design of 25 samples was employed as a calibration set, and a central composite design of 20 samples was used as a validation set. The firefly algorithm (FA) was evaluated as a variable selection procedure to optimize the developed ANN models resulting in simpler models with improved predictive performance as evident by lower relative root mean square error of prediction (RRMSEP) values compared to the full spectrum ANN models. Validation of the developed FA-ANN models demonstrated excellent accuracy, precision and selectivity for the quantification of the target analytes as per international conference on harmonisation (ICH) guidelines. Additionally, the greenness, analytical practicality and sustainability of the developed models were assessed using the analytical greenness (AGREE), blue applicability grade index (BAGI) and the red-green-blue (RGB) tools, confirming their environmentally friendly, practical and sustainable nature. This research shed the light on the potential of ANN coupled with UV fingerprinting for the rapid and simultaneous determination of critical cardiovascular drugs posing a significant impact on pharmaceutical quality control and patient monitoring.",
+    "keywords": [
+      "Artificial neural networks",
+      "Cardiovascular diseases",
+      "Firefly algorithm",
+      "Greenness assessment",
+      "Spectrophotometry",
+      "Propranolol",
+      "Rosuvastatin",
+      "Valsartan"
+    ]
+  },
+  {
+    "id": 36,
+    "name": "Raman spectroscopy of carbon materials and their composites: Graphene, nanotubes and fibres",
+    "description": "A comprehensive review of Raman spectroscopy applied to carbon-based materials, emphasizing graphene, carbon nanotubes, and fibres, with insights into microstructural characterization and mechanical property evaluation.",
+    "type": "Spectroscopy",
+    "species": "Carbon materials",
+    "category": "Review",
+    "technique": "Raman Spectroscopy",
+    "date": "2023-06",
+    "authors": [
+      "Zheling Li",
+      "Libo Deng",
+      "Ian A. Kinloch",
+      "Robert J. Young"
+    ],
+    "journal": "Progress in Materials Science",
+    "doi": "10.1016/j.pmatsci.2023.101089",
+    "abstract": "Raman spectroscopy is now an extremely important technique for the analysis of carbon-based materials. It is demonstrated how it can be used to give a unique insight into characterising many aspects of the microstructure of these materials, including orientation, number of layers, defects and doping, enabling standardisation and quality control. Graphene, as the building block of all sp2 carbon materials is used as the main example and it is demonstrated how the understanding of this material has facilitated the analysis of carbon nanotubes and fibres. It is also shown that the Raman bands shift during deformation and that these shifts are related through a universal calibration. It is demonstrated how these stress-induced Raman band shifts can be used to follow the deformation of the carbon-based materials and that this can be employed for the study of the interfacial micromechanics in model composite specimens. Finally the application of Raman spectroscopy to the characterisation of the structure and physical properties, both mechanical and thermal, of bulk carbon-based composites is described in detail. The application of Raman spectroscopy to the study of a broader range of materials and the potential for instrumental innovations to enable further extension of the technique are discussed briefly.",
+    "keywords": [
+      "Graphene",
+      "Carbon nanotubes",
+      "Carbon fibres",
+      "Raman spectroscopy",
+      "Composites",
+      "Mechanical properties"
+    ]
+  },
+  {
+    "id": 37,
+    "name": "Progress in infrared spectroscopy as an efficient tool for predicting protein secondary structure",
+    "description": "A review of recent advancements in infrared (IR) and Fourier transform infrared (FTIR) spectroscopy techniques for analyzing and predicting protein secondary structure, with emphasis on reducing water interference and improving analysis accuracy.",
+    "type": "Spectroscopy",
+    "species": "Proteins/Peptides",
+    "category": "Spectroscopy/Protein Analysis",
+    "technique": "Infrared Spectroscopy (FTIR, ATR-FTIR)",
+    "date": "2022-05-01",
+    "authors": [
+      "Shouning Yang",
+      "Qiaoling Zhang",
+      "Huayan Yang",
+      "Haimei Shi",
+      "Aichun Dong",
+      "Li Wang",
+      "Shaoning Yu"
+    ],
+    "journal": "International Journal of Biological Macromolecules",
+    "doi": "10.1016/j.ijbiomac.2022.02.104",
+    "abstract": "Infrared (IR) spectroscopy is a highly sensitive technique that provides complete information on chemical compositions. The IR spectra of proteins or peptides give rise to nine characteristic IR absorption bands. The amide I bands are the most prominent and sensitive vibrational bands and widely used to predict protein secondary structures. The interference of H2O absorbance is the greatest challenge for IR protein secondary structure prediction. Much effort has been made to reduce/eliminate the interference of H2O, simplify operation steps, and increase prediction accuracy. Progress in sampling and equipment has rendered the Fourier transform infrared (FTIR) technique suitable for determining the protein secondary structure in broader concentration ranges, greatly simplifying the operating steps. This review highlights the recent progress in sample preparation, data analysis, and equipment development of FTIR in A/T mode, with a focus on recent applications of FTIR spectroscopy in the prediction of protein secondary structure. This review also provides a brief introduction of the progress in ATR-FTIR for predicting protein secondary structure and discusses some combined IR methods, such as AFM-based IR spectroscopy, that are used to analyze protein structural dynamics and protein aggregation.",
+    "keywords": [
+      "FTIR spectroscopy",
+      "Protein secondary structure",
+      "Protein structural dynamics",
+      "Protein conformation"
+    ]
+  },
+  {
+    "id": 38,
+    "name": "Terahertz Circular Dichroism Spectroscopy of Molecular Assemblies and Nanostructures",
+    "description": "This perspective outlines the theoretical basis, implementation, and potential of Terahertz Circular Dichroism (TCD) spectroscopy for probing the low-frequency vibrational states of complex molecules and nanostructures, highlighting its unique ability to detect chiral phonons and structural asymmetries at the molecular level.",
+    "type": "Spectroscopy",
+    "species": "Molecular Assemblies, Nanostructures",
+    "category": "Spectroscopy/Chiroptical Methods",
+    "technique": "Terahertz Circular Dichroism Spectroscopy (TCD)",
+    "date": "2022-12-09",
+    "authors": [
+      "Won Jin Choi",
+      "Sang Hyun Lee",
+      "Bum Chul Park",
+      "Nicholas A. Kotov"
+    ],
+    "journal": "Journal of the American Chemical Society",
+    "doi": "10.1021/jacs.2c04817",
+    "abstract": "Chemical, physical, biological and materials engineering disciplines use a variety of chiroptical spectroscopies to probe geometrical and optical asymmetry in molecules and particles. Electronic (ECD) and vibrational (VCD) circular dichroism are the most common of these techniques and collectively enable the studies of electronic and vibronic transitions with energies between 0.1 and 5.0 eV. The vibrational states with characteristic energies in the range of 0.001–0.01 eV carry valuable information about concerted intermolecular motions in molecules and crystals involving multiple atoms. These vibronic transitions located in the terahertz (THz) part of the spectrum become increasingly more important for the chemistry, physics, and biology of complex molecules and materials. However, the methodology and hardware of THz circular dichroism (TCD) are much less developed than the chiroptical spectroscopies for ultraviolet, visible, near- and mid infrared photons. Here we provide theoretical foundations, practical implementations, comparative assessments, and exemplary applications of TCD spectroscopy. We show that the sign, intensity, and position of TCD peaks are highly sensitive to the three-dimensional structure and long-range organization of molecular crystals, which offer unique capabilities to study (bio) molecules, their crystals, and nanoscale assemblies and apply the novel data processing methodologies. TCD also offers a convenient toolbox to identify new physical phenomena, such as chiral phonons and their propagation in nanostructured matter. We also discuss the major challenges, emerging opportunities and promising research directions, including broad investigation of chiral phonons observed in chiral (nano) crystals and emerging machine learning methodologies for TCD in biological and nanoscale structures. Ubiquity of low-frequency vibrations with rotational components in biomolecular structures, combined with sharpness of peaks in TCD spectra, enables a variety of technological translations.",
+    "keywords": [
+      "Circular dichroism spectroscopy",
+      "Molecules",
+      "Oscillation",
+      "Phonons",
+      "Spectroscopy"
+    ]
+  },
+  {
+    "id": 39,
+    "name": "Review on combining surface-enhanced Raman spectroscopy and electrochemistry for analytical applications",
+    "description": "This review highlights the development and analytical applications of combining surface-enhanced Raman spectroscopy (SERS) with electrochemistry (EC), focusing on enhanced sensor performance, controlled analyte adsorption, and increased reproducibility. The review emphasizes the potential of EC-SERS sensors for miniaturized point-of-need analyses, impacting quality control, diagnostics, environmental and food safety.",
+    "type": "Spectroscopy",
+    "species": "Analytical Sensors",
+    "category": "Spectroscopy/Electrochemical Methods",
+    "technique": "Electrochemical Surface-Enhanced Raman Spectroscopy (EC-SERS)",
+    "date": "2022-05-29",
+    "authors": [
+      "Rebeca Moldovan",
+      "Elizaveta Vereshchagina",
+      "Karolina Milenko",
+      "Bogdan-Cezar Iacob",
+      "Andreea Elena Bodoki",
+      "Alexandra Falamas",
+      "Nicoleta Tosa",
+      "Cristina M. Muntean",
+      "Cosmin Farcău",
+      "Ede Bodoki"
+    ],
+    "journal": "Analytica Chimica Acta",
+    "doi": "10.1016/j.aca.2021.339250",
+    "abstract": "The discovery of surface enhanced Raman scattering (SERS) from an electrochemical (EC)-SERS experiment is known as a historic breakthrough. Five decades have passed and Raman spectroelectrochemistry (SEC) has developed into a common characterization tool that provides information about the electrode–electrolyte interface. Recently, this technique has been successfully explored for analytical purposes. EC was found to highly improve the performances of SERS sensors, providing, among others, controlled adsorption of analytes and increased reproducibility. In this review, we highlight the potential of EC-SERS sensors to be implemented for point-of-need (PON) analyses as miniaturized devices, and their ability to revolutionize fields like quality control, diagnosis or environmental and food safety. Important developments have been achieved in Raman spectroelectrochemistry, which now represents a promising alternative to conventional analytical methods and interests more and more researchers. The studies included in this review open endless possibilities for real-life EC-SERS analytical applications.",
+    "keywords": [
+      "Spectroelectrochemistry",
+      "EC-SERS",
+      "Sensor",
+      "Fabrication",
+      "Miniaturization",
+      "Point-of-need"
+    ]
+  },
+  {
+    "id": 40,
+    "name": "Differential quartz-enhanced photoacoustic spectroscopy",
+    "description": "This paper reports a differential quartz-enhanced photoacoustic spectroscopy (D-QEPAS) sensor using a differential photoacoustic cell and two quartz tuning forks with a high quality factor for enhanced signal detection and noise suppression. The sensor employs wavelength modulation spectroscopy and second harmonic detection techniques to detect trace acetylene gas with a minimum detection limit of approximately 496.7 ppb.",
+    "type": "Spectroscopy",
+    "species": "Acetylene gas (C2H2)",
+    "category": "Photoacoustic Spectroscopy",
+    "technique": "Differential quartz-enhanced photoacoustic spectroscopy (D-QEPAS)",
+    "date": "2023-06-19",
+    "authors": [
+      "Chu Zhang",
+      "Shunda Qiao",
+      "Ying He",
+      "Sheng Zhou",
+      "Lei Qi",
+      "Yufei Ma"
+    ],
+    "journal": "Applied Physics Letters",
+    "doi": "10.1063/5.0157161",
+    "abstract": "In this paper, a differential quartz-enhanced photoacoustic spectroscopy (D-QEPAS) sensor is reported. The differential photoacoustic cell (PAC) was used to generate the photoacoustic effect. Two quartz tuning forks (QTFs) with a quality factor (Q) up to 10 000 were used as the acoustic wave transducers. The signal of D-QEPAS sensor was doubly enhanced by the differential characteristic of differential PAC and resonant response of QTF. The background noise was suppressed based on the differential principle. With the help of the finite element method, the acoustic field characteristics were simulated and calculated. Wavelength modulation spectroscopy technique and second harmonic (2f) detection technique were applied to detect photoacoustic signal. Trace acetylene (C2H2) gas detection was performed to verify the D-QEPAS sensor performance. The 2f signal amplitude of differential mode was 116.03 μV, which had a 1.65 times improvement compared with the 2f signal amplitudes of QTF1. When the integration time was 334 s, the minimum detection limit of D-QEPAS sensor was about 496.7 ppb. The reported D-QEPAS provides a development and idea for the widely reported QEPAS technique.",
+    "keywords": [
+      "Acoustical properties",
+      "Acoustic resonators",
+      "Acoustic spectroscopy",
+      "Microphones",
+      "Tuning forks",
+      "Acoustic field",
+      "Acoustic waves",
+      "Photoacoustic effects",
+      "Wavelength modulation spectroscopy",
+      "Finite-element analysis"
+    ]
+  },
+  {
+    "id": 41,
+    "name": "Optical coherence tomography in coronary atherosclerosis assessment and intervention",
+    "description": "This review summarizes advances and clinical applications of optical coherence tomography (OCT) in coronary atherosclerosis, highlighting its role in vascular biology, plaque pathology identification, and optimization of percutaneous coronary interventions.",
+    "type": "OCT",
+    "species": "Human coronary arteries",
+    "category": "Cardiovascular Imaging",
+    "technique": "Optical Coherence Tomography (OCT)",
+    "date": "2022-04-21",
+    "authors": [
+      "Makoto Araki",
+      "Seung-Jung Park",
+      "Harold L. Dauerman",
+      "Shiro Uemura",
+      "Jung-Sun Kim",
+      "Carlo Di Mario",
+      "Thomas W. Johnson",
+      "Giulio Guagliumi",
+      "Adnan Kastrati",
+      "Michael Joner",
+      "Niels Ramsing Holm",
+      "Fernando Alfonso",
+      "William Wijns",
+      "Tom Adriaenssens",
+      "Holger Nef",
+      "Gilles Rioufol",
+      "Nicolas Amabile",
+      "Geraud Souteyrand",
+      "Nicolas Meneveau",
+      "Edouard Gerbaud",
+      "Maksymilian P. Opolski",
+      "Nieves Gonzalo",
+      "Guillermo J. Tearney",
+      "Brett Bouma",
+      "Ik-Kyung Jang"
+    ],
+    "journal": "Nature Reviews Cardiology",
+    "doi": "10.1038/s41569-022-00687-9",
+    "abstract": "Since optical coherence tomography (OCT) was first performed in humans two decades ago, this imaging modality has been widely adopted in research on coronary atherosclerosis and adopted clinically for the optimization of percutaneous coronary intervention. In the past 10 years, substantial advances have been made in the understanding of in vivo vascular biology using OCT. Identification by OCT of culprit plaque pathology could potentially lead to a major shift in the management of patients with acute coronary syndromes. Detection by OCT of healed coronary plaque has been important in our understanding of the mechanisms involved in plaque destabilization and healing with the rapid progression of atherosclerosis. Accurate detection by OCT of sequelae from percutaneous coronary interventions that might be missed by angiography could improve clinical outcomes. In addition, OCT has become an essential diagnostic modality for myocardial infarction with non-obstructive coronary arteries. Insight into neoatherosclerosis from OCT could improve our understanding of the mechanisms of very late stent thrombosis. The appropriate use of OCT depends on accurate interpretation and understanding of the clinical significance of OCT findings. In this Review, we summarize the state of the art in cardiac OCT and facilitate the uniform use of this modality in coronary atherosclerosis. Contributions have been made by clinicians and investigators worldwide with extensive experience in OCT, with the aim that this document will serve as a standard reference for future research and clinical application.",
+    "keywords": [
+      "Optical coherence tomography",
+      "Coronary atherosclerosis",
+      "Percutaneous coronary intervention",
+      "Vascular biology",
+      "Plaque pathology",
+      "Myocardial infarction",
+      "Stent thrombosis"
+    ]
+  },
+  {
+    "id": 42,
+    "name": "Nanoscale biophysical properties of small extracellular vesicles from senescent cells using atomic force microscopy, surface potential microscopy, and Raman spectroscopy",
+    "description": "This study investigates the biomechanical properties of small extracellular vesicles (sEVs) secreted by senescent cells (SnCs) compared to non-senescent cells, using atomic force microscopy, surface potential microscopy, and Raman spectroscopy, revealing distinct stiffness and softness profiles linked to senescence-associated secretory phenotype factors.",
+    "type": "Spectroscopy, Microscopy",
+    "species": "Senescent cells, small extracellular vesicles",
+    "category": "Nanobiophysics / Spectroscopy / Microscopy",
+    "technique": "Atomic Force Microscopy (AFM), Surface Potential Microscopy, Raman Spectroscopy",
+    "date": "2022-09-08",
+    "authors": [
+      "Hyo Gyeong Lee",
+      "Seokbeom Roh",
+      "Hyun Jung Kim",
+      "Seokho Kim",
+      "Yoochan Hong",
+      "Gyudo Lee",
+      "Ok Hee Jeon"
+    ],
+    "journal": "Nanoscale Horizons",
+    "doi": "10.1039/D2NH00220E",
+    "abstract": "Cells secrete extracellular vesicles (EVs) carrying cell-of-origin markers to communicate with surrounding cells. EVs regulate physiological processes ranging from intercellular signaling to waste management. However, when senescent cells (SnCs) secrete EVs, the EVs, which are newly regarded as senescence-associated secretory phenotype (SASP) factors, can evoke inflammation, senescence induction, and metabolic disorders in neighboring cells. Unlike other soluble SASP factors, the biophysical properties of EVs, including small EVs (sEVs), derived from SnCs have not yet been investigated. In this study, sEVs were extracted from a human IMR90 lung fibroblast in vitro senescence model. Their biomechanical properties were mapped using atomic force microscopy-based quantitative nanomechanical techniques, surface potential microscopy, and Raman spectroscopy. The surfaces of sEVs derived from SnCs are slightly stiffer but their cores are softer than those of sEVs secreted from non-senescent cells (non-SnCs). This inversely proportional relationship between deformation and stiffness, attributed to a decrease in the concentration of genetic and protein materials inside the vesicles and the adsorption of positively charged SASP factors onto the vesicle surfaces, respectively, was found to be a peculiar characteristic of SnC-derived sEVs. Our results demonstrate that the biomechanical properties of SnC-derived sEVs differ from those of non-SnC-derived sEVs and provide insight into the mechanisms underlying their formation and composition.",
+    "keywords": [
+      "Atomic Force Microscopy",
+      "Surface Potential Microscopy",
+      "Raman Spectroscopy",
+      "Senescent Cells",
+      "Extracellular Vesicles",
+      "Biomechanics"
+    ]
+  },
+  {
+    "id": 43,
+    "name": "True Atomic-Resolution Surface Imaging and Manipulation under Ambient Conditions via Conductive Atomic Force Microscopy",
+    "description": "This work demonstrates true atomic-resolution surface imaging at ambient conditions using conductive atomic force microscopy (C-AFM), enabling high-speed imaging and manipulation of atomic defects on various materials including MoS2 and α-Mo2C, revealing room-temperature charge ordering and providing a powerful tool for surface structure and electronic characterization.",
+    "type": "Microscopy",
+    "species": "MoS2, α-Mo2C (MXene)",
+    "category": "Atomic Force Microscopy / Surface Imaging",
+    "technique": "Conductive Atomic Force Microscopy (C-AFM)",
+    "date": "2022-10-25",
+    "authors": [
+      "Saima A. Sumaiya",
+      "Jun Liu",
+      "Mehmet Z. Baykara"
+    ],
+    "journal": "ACS Nano",
+    "doi": "10.1021/acsnano.2c08321",
+    "abstract": "A great number of chemical and mechanical phenomena, ranging from catalysis to friction, are dictated by the atomic-scale structure and properties of material surfaces. Yet, the principal tools utilized to characterize surfaces at the atomic level rely on strict environmental conditions such as ultrahigh vacuum and low temperature. Results obtained under such well-controlled, pristine conditions bear little relevance to the great majority of processes and applications that often occur under ambient conditions. Here, we report true atomic-resolution surface imaging via conductive atomic force microscopy (C-AFM) under ambient conditions, performed at high scanning speeds. Our approach delivers atomic-resolution maps on a variety of material surfaces that comprise defects including single atomic vacancies. We hypothesize that atomic resolution can be enabled by either a confined, electrically conductive pathway or an individual, atomically sharp asperity at the tip–sample contact. Using our method, we report the capability of in situ charge state manipulation of defects on MoS2 and the observation of an exotic electronic effect: room-temperature charge ordering in a thin transition metal carbide (TMC) crystal (i.e., an MXene), α-Mo2C. Our findings demonstrate that C-AFM can be utilized as a powerful tool for atomic-resolution imaging and manipulation of surface structure and electronics under ambient conditions, with wide-ranging applicability.",
+    "keywords": [
+      "atomic force microscopy",
+      "atomic-resolution imaging",
+      "charge ordering",
+      "defects",
+      "MXenes",
+      "two-dimensional materials"
+    ]
+  },
+  {
+    "id": 44,
+    "name": "Wide-field mid-infrared hyperspectral imaging beyond video rate",
+    "description": "This article reports a high-speed, wide-field mid-infrared hyperspectral imaging system using broadband parametric upconversion and a rapid acousto-optic tunable filter, enabling acquisition of 100 spectral bands in 10 ms with a 100 Hz refreshing rate. The system achieves real-time, high-definition chemical imaging with broad spectral coverage, offering new opportunities for high-throughput transient process characterization in materials and life sciences.",
+    "type": "Spectroscopy",
+    "species": "Material and life science samples",
+    "category": "Hyperspectral Imaging / Mid-infrared Spectroscopy",
+    "technique": "Broadband Parametric Upconversion, Acousto-Optic Tunable Filter",
+    "date": "2024-02-28",
+    "authors": [
+      "Jianan Fang",
+      "Kun Huang",
+      "Ruiyang Qin",
+      "Yan Liang",
+      "E Wu",
+      "Ming Yan",
+      "Heping Zeng"
+    ],
+    "journal": "Nature Communications",
+    "doi": "10.1038/s41467-024-46274-z",
+    "abstract": "Mid-infrared hyperspectral imaging has become an indispensable tool to spatially resolve chemical information in a wide variety of samples. However, acquiring three-dimensional data cubes is typically time-consuming due to the limited speed of raster scanning or wavelength tuning, which impedes real-time visualization with high spatial definition across broad spectral bands. Here, we devise and implement a high-speed, wide-field mid-infrared hyperspectral imaging system relying on broadband parametric upconversion of high-brightness supercontinuum illumination at the Fourier plane. The upconverted replica is spectrally decomposed by a rapid acousto-optic tunable filter, which records high-definition monochromatic images at a frame rate of 10 kHz based on a megapixel silicon camera. Consequently, the hyperspectral imager allows us to acquire 100 spectral bands over 2600-4085 cm−1 in 10 ms, corresponding to a refreshing rate of 100 Hz. Moreover, the angular dependence of phase matching in the image upconversion is leveraged to realize snapshot operation with spatial multiplexing for multiple spectral channels, which may further boost the spectral imaging rate. The high acquisition rate, wide-field operation, and broadband spectral coverage could open new possibilities for high-throughput characterization of transient processes in material and life sciences.",
+    "keywords": [
+      "mid-infrared hyperspectral imaging",
+      "parametric upconversion",
+      "acousto-optic tunable filter",
+      "high-speed imaging",
+      "broadband supercontinuum",
+      "chemical imaging"
+    ]
+  },
+  {
+    "id": 45,
+    "name": "Flexible minimally invasive coherent anti-Stokes Raman spectroscopy (CARS) measurement method with tapered optical fiber probe for single-cell application",
+    "description": "This study proposes and demonstrates a flexible, endoscopic, and minimally invasive CARS measurement method for single-cell applications using a tapered optical fiber probe fabricated from a few-mode fiber to deliver excitation pulses and collect signals. The tapered fiber with a diameter of 11.61 μm focuses excitation light effectively, allowing detection of C–H bond-rich substances in simulated cells. This probe is among the smallest for CARS detection and paves the way for minimally invasive live-cell analysis.",
+    "type": "Spectroscopy",
+    "species": "Single cells / Simulated cells",
+    "category": "Coherent Anti-Stokes Raman Spectroscopy (CARS)",
+    "technique": "Tapered Optical Fiber Probe, Few-mode Fiber, CARS",
+    "date": "2022-04-24",
+    "authors": [
+      "[Authors not provided in the snippet]"
+    ],
+    "journal": "PhotoniX",
+    "doi": "10.1186/s43074-022-00058-0",
+    "abstract": "We proposed and demonstrated a flexible, endoscopic, and minimally invasive coherent anti-Raman Stokes scattering (CARS) measurement method for single-cell application, employing a tapered optical fiber probe. A few-mode fiber (FMF), whose generated four-wave mixing band is out of CARS signals, was selected to fabricate tapered optical fiber probes, deliver CARS excitation pulses, and collect CARS signals. The adiabatic tapered fiber probe with a diameter of 11.61 μm can focus CARS excitation lights without mismatch at the focal point. The measurements for proof-of-concept were made with methanol, ethanol, cyclohexane, and acetone injected into simulated cells. The experimental results show that the tapered optical fiber probe can detect carbon-hydrogen (C–H) bond-rich substances and their concentration. To our best knowledge, this optical fiber probe provides the minimum size among probes for detecting CARS signals. These results pave the way for minimally invasive live-cell detection in the future.",
+    "keywords": [
+      "coherent anti-Stokes Raman spectroscopy",
+      "CARS",
+      "tapered optical fiber probe",
+      "few-mode fiber",
+      "single-cell detection",
+      "minimally invasive"
+    ]
+  },
+  {
+    "id": 46,
+    "name": "Second harmonic generation microscopy: a powerful tool for bio-imaging",
+    "description": "This review discusses the history, physical principles, and biomedical applications of second harmonic generation (SHG) microscopy and its advanced variants. It highlights the technique’s strengths and limitations, with a focus on neuroscience and microtubule imaging, providing insights into microtubule formation, structuration, and neuronal functions. The article also offers perspectives on future developments to enhance SHG microscopy adoption.",
+    "type": "Microscopy",
+    "species": "Neuronal cells / Microtubules",
+    "category": "Second Harmonic Generation Microscopy (SHG)",
+    "technique": "Second Harmonic Generation Microscopy, Advanced SHG Imaging",
+    "date": "2023-01-19",
+    "authors": [
+      "Arash Aghigh",
+      "Stéphane Bancelin",
+      "Maxime Rivard",
+      "Maxime Pinsard",
+      "Heide Ibrahim",
+      "François Légaré"
+    ],
+    "journal": "Biophysical Reviews",
+    "doi": "10.1007/s12551-022-01041-6",
+    "abstract": "Second harmonic generation (SHG) microscopy is an important optical imaging technique in a variety of applications. This article describes the history and physical principles of SHG microscopy and its more advanced variants, as well as their strengths and weaknesses in biomedical applications. It also provides an overview of SHG and advanced SHG imaging in neuroscience and microtubule imaging and how these methods can aid in understanding microtubule formation, structuration, and involvement in neuronal function. Finally, we offer a perspective on the future of these methods and how technological advancements can help make SHG microscopy a more widely adopted imaging technique.",
+    "keywords": [
+      "second harmonic generation microscopy",
+      "SHG",
+      "bio-imaging",
+      "neuroscience",
+      "microtubules",
+      "optical imaging"
+    ]
+  },
+  {
+    "id": 47,
+    "name": "Machine learning model with physical constraints for diffuse optical tomography",
+    "description": "A machine learning model with physical constraints (ML-PC) is introduced to improve diffuse optical tomography (DOT) reconstruction, which is typically ill-posed and affected by noise and model mismatches. The method integrates ultrasound-guided DOT and a neural network auto-encoder combined with physical constraints to enhance accuracy. Both phantom and clinical studies show improved reconstruction quality and better differentiation between malignant and benign breast lesions compared to traditional methods.",
+    "type": " Optical Tomography ",
+    "species": "Human tissue / Breast lesions",
+    "category": "Diffuse Optical Tomography (DOT), Machine Learning",
+    "technique": "Ultrasound-guided DOT, Auto-encoder Neural Network, Physical Constraints",
+    "date": "2021-08-23",
+    "authors": [
+      "Yun Zou",
+      "Yifeng Zeng",
+      "Shuying Li",
+      "Quing Zhu"
+    ],
+    "journal": "Biomedical Optics Express",
+    "doi": "10.1364/BOE.432786",
+    "abstract": "A machine learning model with physical constraints (ML-PC) is introduced to perform diffuse optical tomography (DOT) reconstruction. DOT reconstruction is an ill-posed and under-determined problem, and its quality suffers by model mismatches, complex boundary conditions, tissue-probe contact, noise etc. Here, for the first time, we combine ultrasound-guided DOT with ML to facilitate DOT reconstruction. Our method has two key components: (i) a neural network based on auto-encoder is adopted for DOT reconstruction, and (ii) physical constraints are implemented to achieve accurate reconstruction. Both qualitative and quantitative results demonstrate that the accuracy of the proposed method surpasses that of existing models. In a phantom study, compared with the Born conjugate gradient descent (Born-CGD) reconstruction method, the ML-PC method decreases the mean percentage error of the reconstructed maximum absorption coefficient from 16.41% to 13.4% for high contrast phantoms and from 23.42% to 9.06% for low contrast phantoms, with improved depth distribution of the target absorption maps. In a clinical study, better contrast was obtained between malignant and benign breast lesions, with the ratio of the medians of the maximum absorption coefficient improved from 1.63 to 2.22.",
+    "keywords": [
+      "machine learning",
+      "diffuse optical tomography",
+      "ultrasound-guided imaging",
+      "auto-encoder neural network",
+      "physical constraints",
+      "breast lesion classification"
+    ]
+  },
+  {
+    "id": 48,
+    "name": "Temperature Sensors Based on Polymer Fiber Optic Interferometer",
+    "description": "Temperature measurements are crucial in many areas such as industry, technology, and science. Fiber optic sensors enable continuous real-time temperature control even in hard-to-reach or hazardous environments. Polymer-based fiber optic temperature sensors can reduce production costs and simplify installation and use. This review critically overviews the latest developments in fiber optic temperature sensors based on Fabry–Pérot interferometers made with polymer technology.",
+    "type": "Fiber Optic Sensor",
+    "species": "N/A",
+    "category": "Temperature Sensing, Polymer Fiber Optics",
+    "technique": "Fabry–Pérot Interferometer, Polymer Fiber Optic Technology",
+    "date": "2022-06-15",
+    "authors": [
+      "Malgorzata Szczerska"
+    ],
+    "journal": "Chemosensors",
+    "doi": "10.3390/chemosensors10060228",
+    "abstract": "Temperature measurements are of great importance in many fields of human activities, including industry, technology, and science. For example, obtaining a certain temperature value or a sudden change in it can be the primary control marker of a chemical process. Fiber optic sensors have remarkable properties giving a broad range of applications. They enable continuous real-time temperature control in difficult-to-reach areas, in hazardous working environments (air pollution, chemical or ionizing contamination), and in the presence of electromagnetic disturbances. The use of fiber optic temperature sensors in polymer technology can significantly reduce the cost of their production. Moreover, the installation process and usage would be simplified. As a result, these types of sensors would become increasingly popular in industrial solutions. This review provides a critical overview of the latest development of fiber optic temperature sensors based on Fabry–Pérot interferometer made with polymer technology.",
+    "keywords": [
+      "temperature sensor",
+      "polymer fiber optic",
+      "fiber optic",
+      "Fabry–Pérot interferometer",
+      "interferometer",
+      "fiber optic interferometer"
+    ]
+  },
+  {
+    "id": 49,
+    "name": "Optical Method for the Detection of Viral RNA Using an Optical Fiber Sensor",
+    "description": "A fiber-optic sensor functionalized with a sensing probe for SARS-CoV-2 RNA detection. The sensor features a microsphere design enhanced with a gold layer and oligonucleotide probes for high sensitivity and specificity. It enables near real-time viral RNA monitoring at concentrations as low as 10⁻¹² M. While less sensitive than RT-PCR, it excels in speed, portability, and scalability, suitable for point-of-care diagnostics and environmental monitoring.",
+    "type": "Fiber Optic Sensor",
+    "species": "N/A",
+    "category": "Viral RNA Detection, Optical Fiber Sensors",
+    "technique": "Fiber-Optic Microsphere Sensor, Optical Interference",
+    "date": "2025-05-27",
+    "authors": [
+      "Patryk Sokołowski",
+      "Paweł Wityk",
+      "Joanna Raczak-Gutknecht",
+      "Wiktoria Brzezińska",
+      "Michał Sobaszek",
+      "Paweł Kalinowski",
+      "Sebastian Garcia-Galan",
+      "Małgorzata Szczerska"
+    ],
+    "journal": "Journal of Biophotonics",
+    "doi": "10.1002/jbio.202500063",
+    "abstract": "This study introduces a fiber-optic sensor functionalized with a sensing probe for SARS-CoV-2 RNA detection. The sensor employs a microsphere design at the sensor\\'s tip, enhanced with a gold layer and oligonucleotide probes, to achieve high sensitivity and specificity. Utilizing optical interference, the system enables near real-time monitoring of viral RNA at concentrations as low as 10⁻¹² M. While the sensor\\'s sensitivity is lower than that of the RT-PCR, it excels in speed, portability, and scalability, making it suitable for point-of-care diagnostics, environmental monitoring, and large-scale screening. The integration of fiber-optic sensors with advanced analytical systems further enhances their utility in preventing virus transmission and contamination, highlighting their role in global efforts to combat infectious diseases.",
+    "keywords": [
+      "fiber-optic sensor",
+      "SARS-CoV-2 detection",
+      "viral RNA",
+      "microsphere sensor",
+      "optical interference"
+    ]
+  },
+  {
+    "id": 50,
+    "name": "Diamond Structures for Tuning of the Finesse Coefficient of Photonic Devices",
+    "description": "This study investigates the use of diamond structures in fiber-optic Fabry–Perot measurement heads to evaluate their impact on the finesse coefficient, a key parameter of resonant cavities. The research models transmission functions of cavities incorporating nitrogen-doped diamond, boron-doped diamond, nanocrystalline diamond sheets, and silver mirrors. Diamonds were deposited using microwave plasma-assisted chemical vapor deposition, and SEM was used for surface morphology analysis. Both mathematical modeling and experimental results for a reflective-mode fiber-optic Fabry–Perot setup with a 1550 nm light source are compared.",
+    "type": "Fiber Optic Sensor",
+    "species": "N/A",
+    "category": "Photonic Devices, Resonant Cavities, Diamond Structures",
+    "technique": "Fiber-optic Fabry–Perot Interferometry, Chemical Vapor Deposition (CVD), SEM",
+    "date": "2022-03-31",
+    "authors": [
+      "Monika Kosowska",
+      "Awadesh K. Mallik",
+      "Michał Rycewicz",
+      "Ken Haenen",
+      "Małgorzata Szczerska"
+    ],
+    "journal": "Materials",
+    "doi": "10.3390/ma15072552",
+    "abstract": "Finesse coefficient is one of the most important parameters describing the properties of a resonant cavity. In this research, a mathematical investigation of the application of diamond structures in a fiber-optic Fabry–Perot measurement head to assess their impact on the finesse coefficient is proposed. We present modeled transmission functions of cavities utilizing a nitrogen-doped diamond, a boron-doped diamond, nanocrystalline diamond sheet and a silver mirror. The diamond structures were deposited using a microwave plasma-assisted chemical vapor deposition system. A SEM investigation of surface morphology was conducted. The modeling took into consideration the fiber-optic Fabry–Perot setup working in a reflective mode, with an external cavity and a light source of 1550 nm. A comparison of the mathematical investigation and experimental results is presented.",
+    "keywords": [
+      "diamond",
+      "CVD",
+      "cavity",
+      "optoelectronic devices",
+      "fiber-optic sensor",
+      "Fabry–Perot interferometer"
+    ]
+  }
+]
