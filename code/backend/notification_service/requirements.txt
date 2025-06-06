@@ -1,0 +1,2 @@
+pika==1.3.2  # RabbitMQ client
+waitress==3.0.0   # Production-ready WSGI server

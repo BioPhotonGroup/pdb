@@ -1,0 +1,6 @@
+Flask==3.0.3
+Flask-SQLAlchemy==3.1.1  # SQLAlchemy integration with Flask
+psycopg2-binary==2.9.9  # PostgreSQL adapter for SQLAlchemy
+PyJWT==2.9.0     # For external DOI verification with CrossRef
+waitress==3.0.0   # Production-ready WSGI server
+requests==2.32.3  # To make HTTP requests to internal services

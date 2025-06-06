@@ -1,0 +1,128 @@
+services:
+  rabbitmq:
+    image: rabbitmq:4-management
+    container_name: rabbitmq
+    ports:
+      - "5672:5672"     # RabbitMQ port (internal only)
+      - "15672:15672"   # RabbitMQ management interface
+    environment:
+      RABBITMQ_DEFAULT_USER: guest
+      RABBITMQ_DEFAULT_PASS: guest
+    networks:
+      - user_network
+
+  notification_message_processor:
+    build:
+      context: ./backend/notification_message_processor
+      dockerfile: Dockerfile
+    container_name: notification_message_processor
+    networks:
+      - user_network
+    depends_on:
+      - rabbitmq
+
+  notification_service:
+    build:
+      context: ./backend/notification_service
+      dockerfile: Dockerfile
+    container_name: notification_service
+    networks:
+      - user_network
+    depends_on:
+      - rabbitmq
+    restart: always
+
+  api_gateway:
+    build:
+      context: ./backend/api_gateway
+      dockerfile: Dockerfile
+    container_name: api_gateway
+    ports:
+      - "5000:5000"  # External access allowed
+    networks:
+      - user_network
+    depends_on:
+      - metadata_service
+      - identity_service
+      - dataset_service
+
+  identity_service:
+    build:
+      context: ./backend/identity_service
+      dockerfile: Dockerfile
+    container_name: identity_service
+    networks:
+      - user_network
+    depends_on:
+      - rabbitmq
+      - postgresql_db
+
+  metadata_service:
+    build:
+      context: ./backend/metadata_service
+      dockerfile: Dockerfile
+    container_name: metadata_service
+    networks:
+      - user_network
+    depends_on:
+      - rabbitmq
+
+  dataset_service:
+    build:
+      context: ./backend/dataset_service
+      dockerfile: Dockerfile
+    container_name: dataset_service 
+    networks:
+      - user_network
+    depends_on:
+      - rabbitmq
+      - postgresql_db
+
+  user_service:
+    build:
+      context: ./backend/user_service
+      dockerfile: Dockerfile
+    container_name: user_service
+    networks:
+      - user_network
+    depends_on:
+      - rabbitmq
+      - postgresql_db
+
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+    container_name: frontend
+    ports:
+      - "8080:80"  # Expose React frontend to port 80
+    networks:
+      - user_network
+
+  mailhog:
+    image: mailhog/mailhog
+    container_name: mailhog
+    ports:
+      - "1025:1025"  # SMTP server port for sending emails
+      - "8025:8025"  # MailHog web interface
+
+  postgresql_db:
+    image: postgres:17
+    container_name: postgresql_db
+    environment:
+      POSTGRES_DB: my_database
+      POSTGRES_USER: admin
+      POSTGRES_PASSWORD: admin123
+    networks:
+      - user_network
+    volumes:
+      - postgres_data:/var/lib/postgresql/data      
+    ports:
+      - "5435:5432"
+
+volumes:
+  postgres_data:
+
+networks:
+  user_network:
+    driver: bridge

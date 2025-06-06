@@ -1,0 +1,4 @@
+Flask==3.0.3
+requests==2.32.3  # To make HTTP requests to internal services
+PyJWT==2.9.0      # For verifying JWT tokens
+waitress==3.0.0   # Production-ready WSGI server
